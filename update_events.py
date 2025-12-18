@@ -4,71 +4,88 @@ import re
 from datetime import datetime
 
 session = requests.Session()
-HEADERS = {"User-Agent": "SFGuideBot/1.0"}
+# Adding a more "human" user agent helps prevent being blocked by site security
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "Accept": "application/json"
+}
 
 def fetch_sflive():
+    # This is the direct endpoint for their map data
+    url = "https://sflive.art/wp-json/vibemap/v1/events-data"
+    params = {"per_page": 500}
     try:
-        r = requests.get("https://sflive.art/wp-json/vibemap/v1/events-data?per_page=1000", headers=HEADERS, timeout=30)
+        print("Requesting sflive.art...")
+        r = session.get(url, params=params, headers=HEADERS, timeout=30)
         if r.status_code == 200:
             data = r.json()
-            # If data is a dict with an 'events' key, return just the list
+            # SF Live often nests events inside a 'data' or 'events' key
             if isinstance(data, dict):
-                return data.get('events', [])
+                events = data.get('events') or data.get('data') or []
+                return events
             return data if isinstance(data, list) else []
-    except:
-        pass
+    except Exception as e:
+        print(f"SF Live Error: {e}")
     return []
 
 def fetch_funcheap():
     events = []
-    # Fetch first 3 pages (300 events)
     for page in range(1, 4):
+        url = f"https://sf.funcheap.com/wp-json/wp/v2/cityguide?per_page=100&page={page}"
         try:
-            r = requests.get(f"https://sf.funcheap.com/wp-json/wp/v2/cityguide?per_page=100&page={page}", headers=HEADERS, timeout=30)
-            if r.status_code != 200: break
-            batch = r.json()
-            if not batch or not isinstance(batch, list): break
-            events.extend(batch)
-        except:
-            break
+            print(f"Requesting Funcheap Page {page}...")
+            r = session.get(url, headers=HEADERS, timeout=30)
+            if r.status_code == 200:
+                batch = r.json()
+                if not batch: break
+                events.extend(batch)
+            else: break
+        except: break
     return events
 
-print("Fetching data from sources...")
+# Execution
 sf_list = fetch_sflive()
 fc_list = fetch_funcheap()
 
-print(f"Found {len(sf_list)} from SF Live and {len(fc_list)} from Funcheap")
+print(f"--- RESULTS ---")
+print(f"SF Live: {len(sf_list)} events found")
+print(f"Funcheap: {len(fc_list)} events found")
 
 all_raw = sf_list + fc_list
 unique = {}
 
 for raw in all_raw:
-    # Handle different title formats
-    title_data = raw.get('title', 'No title')
-    title = title_data.get('rendered', 'No title') if isinstance(title_data, dict) else title_data
+    # Title handling (SF Live uses 'title', Funcheap uses 'title.rendered')
+    t_data = raw.get('title', 'No Title')
+    title = t_data.get('rendered', 'No Title') if isinstance(t_data, dict) else t_data
     
     link = raw.get('link', '')
     if not link: continue
 
-    # Get date
+    # Date handling
     start_date = raw.get('vibemap_event_start_date') or raw.get('date', '')[:10]
     
-    # Handle photo
+    # Venue
+    venue = raw.get('vibemap_event_venue_name') or 'San Francisco'
+
+    # Photo
     photo = ''
-    img_src = raw.get('uagb_featured_image_src')
-    if isinstance(img_src, dict):
-        photo = img_src.get('full', [''])[0]
+    img = raw.get('uagb_featured_image_src')
+    if isinstance(img, dict):
+        photo = img.get('full', [''])[0]
+    elif raw.get('featured_media_url'):
+        photo = raw.get('featured_media_url')
 
     unique[link] = {
         "title": title,
         "link": link,
         "start_date": start_date,
-        "venue": raw.get('vibemap_event_venue_name') or 'San Francisco',
+        "venue": venue,
         "photo": photo,
-        "is_free": 'free' in str(title).lower() or 'sf.funcheap.com' in link
+        "is_free": 'free' in str(title).lower() or 'sf.funcheap.com' in link,
+        "source": "sflive" if "sflive.art" in link else "funcheap"
     }
 
-# Save final data
 final_data = {
     "events": list(unique.values()),
     "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M UTC")
@@ -77,4 +94,4 @@ final_data = {
 with open("events.json", "w", encoding="utf-8") as f:
     json.dump(final_data, f, indent=2, ensure_ascii=False)
 
-print(f"Successfully saved {len(final_data['events'])} events to events.json")
+print(f"Success! Total unique events saved: {len(final_data['events'])}")
