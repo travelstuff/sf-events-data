@@ -1,26 +1,35 @@
 name: Update Events
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          python-version: '3.12'
-      - run: pip install requests
-      - run: python update_events.py
-      - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add events.json events.js
-        git commit -m "Update events data" || exit 0
-        git pull --rebase origin main  # <--- This fixes the 'rejected' error
-        git push origin main
+          fetch-depth: 0 # Fetches all history so rebase works
+
+      - name: Set up Python
+        uses: actions/status-setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        run: python update_events.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add events.json events.js
+          git commit -m "Auto-update events" || exit 0
+          git pull --rebase origin main
+          git push origin main
