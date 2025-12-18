@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0 # Fetches all history so rebase works
 
       - name: Set up Python
-        uses: actions/status-setup-python@v4
+        uses: actions/setup-python@v4  # <--- Changed 'status-setup-python' to 'setup-python'
         with:
           python-version: '3.9'
 
