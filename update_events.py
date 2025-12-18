@@ -79,9 +79,7 @@ final_data = {
 with open("events.json", "w", encoding="utf-8") as f:
     json.dump(final_data, f, indent=2, ensure_ascii=False)
 
-# Save as JS Bypass
+# Save as JS Bypass (THIS IS THE MISSING PIECE)
 final_json_string = json.dumps(final_data, ensure_ascii=False)
 with open("events.js", "w", encoding="utf-8") as f:
     f.write(f"window.sfEventData = {final_json_string};")
-
-print(f"Success! Saved {len(final_data['events'])} events.")
