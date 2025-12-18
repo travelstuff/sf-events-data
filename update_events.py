@@ -93,5 +93,9 @@ final_data = {
 
 with open("events.json", "w", encoding="utf-8") as f:
     json.dump(final_data, f, indent=2, ensure_ascii=False)
+# Save final data as a Javascript Variable to bypass WordPress security
+final_json = json.dumps(final_data, ensure_ascii=False)
+with open("events.js", "w", encoding="utf-8") as f:
+    f.write(f"window.sfEventData = {final_json};")
 
-print(f"Success! Total unique events saved: {len(final_data['events'])}")
+print(f"Success! Saved to events.js")
