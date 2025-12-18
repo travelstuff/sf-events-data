@@ -1,17 +1,16 @@
 import requests
 import json
-import re
 from datetime import datetime
 
 session = requests.Session()
-# Adding a more "human" user agent helps prevent being blocked by site security
+# Human-like headers to prevent being blocked by site security
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
     "Accept": "application/json"
 }
 
 def fetch_sflive():
-    # This is the direct endpoint for their map data
+    # Direct API endpoint for SF Live (vibemap)
     url = "https://sflive.art/wp-json/vibemap/v1/events-data"
     params = {"per_page": 500}
     try:
@@ -19,7 +18,7 @@ def fetch_sflive():
         r = session.get(url, params=params, headers=HEADERS, timeout=30)
         if r.status_code == 200:
             data = r.json()
-            # SF Live often nests events inside a 'data' or 'events' key
+            # SF Live nests events inside 'events' or 'data' keys
             if isinstance(data, dict):
                 events = data.get('events') or data.get('data') or []
                 return events
@@ -30,6 +29,7 @@ def fetch_sflive():
 
 def fetch_funcheap():
     events = []
+    # Grabbing the first 3 pages of events
     for page in range(1, 4):
         url = f"https://sf.funcheap.com/wp-json/wp/v2/cityguide?per_page=100&page={page}"
         try:
@@ -43,59 +43,42 @@ def fetch_funcheap():
         except: break
     return events
 
-# Execution
+# 1. Fetch data from both sources
 sf_list = fetch_sflive()
 fc_list = fetch_funcheap()
 
-print(f"--- RESULTS ---")
-print(f"SF Live: {len(sf_list)} events found")
-print(f"Funcheap: {len(fc_list)} events found")
+print(f"--- FETCH SUMMARY ---")
+print(f"SF Live Events Found: {len(sf_list)}")
+print(f"Funcheap Events Found: {len(fc_list)}")
 
 all_raw = sf_list + fc_list
 unique = {}
 
+# 2. Process and Clean Data
 for raw in all_raw:
-    # Title handling (SF Live uses 'title', Funcheap uses 'title.rendered')
+    # Get Title (Handles two different JSON structures)
     t_data = raw.get('title', 'No Title')
     title = t_data.get('rendered', 'No Title') if isinstance(t_data, dict) else t_data
     
     link = raw.get('link', '')
     if not link: continue
 
-    # Date handling
+    # Get Date
     start_date = raw.get('vibemap_event_start_date') or raw.get('date', '')[:10]
     
-    # Venue
+    # Get Venue
     venue = raw.get('vibemap_event_venue_name') or 'San Francisco'
 
-    # Photo
-    photo = ''
-    img = raw.get('uagb_featured_image_src')
-    if isinstance(img, dict):
-        photo = img.get('full', [''])[0]
-    elif raw.get('featured_media_url'):
-        photo = raw.get('featured_media_url')
+    # Determine source and color/free status
+    is_free = 'free' in str(title).lower() or 'sf.funcheap.com' in link
 
     unique[link] = {
         "title": title,
         "link": link,
         "start_date": start_date,
         "venue": venue,
-        "photo": photo,
-        "is_free": 'free' in str(title).lower() or 'sf.funcheap.com' in link,
-        "source": "sflive" if "sflive.art" in link else "funcheap"
+        "is_free": is_free
     }
 
+# 3. Create Final Data Object
 final_data = {
-    "events": list(unique.values()),
-    "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-}
-
-with open("events.json", "w", encoding="utf-8") as f:
-    json.dump(final_data, f, indent=2, ensure_ascii=False)
-# Save final data as a Javascript Variable to bypass WordPress security
-final_json = json.dumps(final_data, ensure_ascii=False)
-with open("events.js", "w", encoding="utf-8") as f:
-    f.write(f"window.sfEventData = {final_json};")
-
-print(f"Success! Saved to events.js")
