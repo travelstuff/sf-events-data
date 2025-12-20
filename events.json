@@ -1,6 +1,34 @@
 {
   "events": [
     {
+      "title": "One of the Bay’s Best Views Returns After 15-Year Makeover",
+      "link": "https://sf.funcheap.com/city-guide/bays-views-returns-15year-makeover/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Is Tearing Down the Infamous Chinatown “Bridge to Nowhere”",
+      "link": "https://sf.funcheap.com/city-guide/sf-tearing-infamous-chinatown-bridge/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco Giants Buy SF&#8217;s Historic 103-Year-Old Curran Theatre",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-giants-buy-sfs-historic-103yearold-curran-theatre/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Historic SF Bank Building to Become New Global HQ for Empire Records",
+      "link": "https://sf.funcheap.com/city-guide/historic-sf-bank-building-global-hq-empire-records/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Iconic &#8216;Lucky 13&#8217; Dive Bar Spot Might Reopen",
       "link": "https://sf.funcheap.com/city-guide/longshuttered-sf-dive-bar-lucky-13-coming/",
       "start_date": "2025-12-18",
@@ -151,6 +179,13 @@
       "title": "SF Bay Area&#8217;s Most Festive Christmas Bars for 2025",
       "link": "https://sf.funcheap.com/city-guide/sf-bay-areas-festive-christmas-bars/",
       "start_date": "2025-11-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
+      "start_date": "2025-11-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1688,13 +1723,6 @@
       "is_free": true
     },
     {
-      "title": "Awesome Places to Watch Super Bowl 2025 (San Francisco + Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
-      "start_date": "2025-02-03",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Free Parking in SF&#8217;s Chinatown All February for Lunar New Year 2025",
       "link": "https://sf.funcheap.com/city-guide/2-hours-free-parking-sfs-chinatown-lunar-year-2025/",
       "start_date": "2025-01-30",
@@ -2071,35 +2099,7 @@
       "start_date": "2024-10-24",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "San Francisco Unveils New &#8220;Bayfront Park,&#8221; Reusing Steel from Bay Bridge",
-      "link": "https://sf.funcheap.com/city-guide/sf-unveils-bayfront-park-reusing-steel-bay-bridge/",
-      "start_date": "2024-10-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Brand New 10-Acre &#8220;India Basin&#8221; Waterfront Park Opens",
-      "link": "https://sf.funcheap.com/city-guide/sfs-brand-200-million-waterfront-park-opens/",
-      "start_date": "2024-10-21",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Quirky Ice Cream Shop Humphry Slocombe Closing Original Location",
-      "link": "https://sf.funcheap.com/city-guide/sfs-quirky-ice-cream-shop-humphry-slocombe-closing-original-location/",
-      "start_date": "2024-10-21",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Holiday Ice Skating Rink at Union Square is Back (2024-25)",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-holiday-ice-skating-rink-union-square/",
-      "start_date": "2024-10-21",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2025-12-19 03:53 UTC"
+  "updated_at": "2025-12-20 03:42 UTC"
 }
