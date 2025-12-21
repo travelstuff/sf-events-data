@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "East Bay’s New 40,000 Sq. Ft. Japanese Supermarket Opens Jan. 31, 2026",
+      "link": "https://sf.funcheap.com/city-guide/east-bays-40000-sq-ft-japanese-supermarket-opens-jan-31-2026/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Oakland to End Free Sunday Parking in 2026",
+      "link": "https://sf.funcheap.com/city-guide/oakland-free-sunday-parking-2026/",
+      "start_date": "2025-12-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "One of the Bay’s Best Views Returns After 15-Year Makeover",
       "link": "https://sf.funcheap.com/city-guide/bays-views-returns-15year-makeover/",
       "start_date": "2025-12-19",
@@ -2085,21 +2099,7 @@
       "start_date": "2024-10-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Legion of Honor Celebrates 100 Years with Rare Free 3-Day Weekend",
-      "link": "https://sf.funcheap.com/city-guide/sfs-legion-honor-celebrates-100-years-rare-free-3day-weekend/",
-      "start_date": "2024-10-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "New Halloween Block Party for 10,000+ Comes to Downtown SF",
-      "link": "https://sf.funcheap.com/city-guide/halloween-block-party-10000-downtown-sf/",
-      "start_date": "2024-10-24",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2025-12-20 03:42 UTC"
+  "updated_at": "2025-12-21 03:56 UTC"
 }
