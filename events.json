@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Christmas in San Francisco (2025)",
+      "link": "https://sf.funcheap.com/city-guide/christmas-in-san-francisco/",
+      "start_date": "2025-12-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "East Bay’s New 40,000 Sq. Ft. Japanese Supermarket Opens Jan. 31, 2026",
       "link": "https://sf.funcheap.com/city-guide/east-bays-40000-sq-ft-japanese-supermarket-opens-jan-31-2026/",
       "start_date": "2025-12-19",
@@ -2092,14 +2099,7 @@
       "start_date": "2024-10-30",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Free SF Art Museum Opens in Historic Downtown Bank Building &#8220;The Cube&#8221;",
-      "link": "https://sf.funcheap.com/city-guide/free-sf-art-museum-opens-historic-downtown-bank-building-cube/",
-      "start_date": "2024-10-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2025-12-23 03:55 UTC"
+  "updated_at": "2025-12-24 03:51 UTC"
 }
