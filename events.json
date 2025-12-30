@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2025-12-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Honors Beloved Albino Alligator w/ Golden Gate Park Celebration (Jan. 18)",
       "link": "https://sf.funcheap.com/city-guide/sf-honors-beloved-albino-alligator-golden-gate-park-celebration-jan-18/",
       "start_date": "2025-12-24",
@@ -179,13 +186,6 @@
       "title": "SF&#8217;s Most Magical Tree Lightings &#038; Holiday Events 2025",
       "link": "https://sf.funcheap.com/city-guide/tree-lightings-holiday-festivities/",
       "start_date": "2025-11-26",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2025-11-24",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2025-12-29 04:19 UTC"
+  "updated_at": "2025-12-30 03:56 UTC"
 }
