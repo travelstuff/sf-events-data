@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "New Year&#8217;s Eve 2025/2026 Fireworks In San Francisco",
+      "link": "https://sf.funcheap.com/city-guide/years-eve-20252026-fireworks-san-francisco/",
+      "start_date": "2025-12-31",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free &#038; Late Night Rides Home for New Year&#8217;s Eve 2025-26",
+      "link": "https://sf.funcheap.com/city-guide/free-late-night-rides-home-years-eve-202425/",
+      "start_date": "2025-12-31",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2025-12-29",
@@ -24,6 +38,13 @@
     {
       "title": "Christmas in San Francisco (2025)",
       "link": "https://sf.funcheap.com/city-guide/christmas-in-san-francisco/",
+      "start_date": "2025-12-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "How to Get the NY Times for Free (Updated for 2026)",
+      "link": "https://sf.funcheap.com/city-guide/ny-times-free/",
       "start_date": "2025-12-22",
       "venue": "San Francisco",
       "is_free": true
@@ -304,13 +325,6 @@
     {
       "title": "SF&#8217;s Iconic Union Square Macy’s Will Stay Open &#038; Get a Major Makeover",
       "link": "https://sf.funcheap.com/city-guide/sfs-iconic-union-square-macys-stay-open-major-makeover/",
-      "start_date": "2025-11-06",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "How to Get the NY Times for Free (Updated for 2025/2026)",
-      "link": "https://sf.funcheap.com/city-guide/ny-times-free/",
       "start_date": "2025-11-06",
       "venue": "San Francisco",
       "is_free": true
@@ -1905,13 +1919,6 @@
       "is_free": true
     },
     {
-      "title": "Free &#038; Late Night Rides Home for New Year&#8217;s Eve 2024-25",
-      "link": "https://sf.funcheap.com/city-guide/free-late-night-rides-home-years-eve-202425/",
-      "start_date": "2024-12-31",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s Great Highway Park to Get Art Makeover",
       "link": "https://sf.funcheap.com/city-guide/sfs-great-highway-park-art-makeover/",
       "start_date": "2024-12-26",
@@ -2092,14 +2099,7 @@
       "start_date": "2024-11-05",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Tougher New Fare Gates Come to BART&#8217;s SFO Station",
-      "link": "https://sf.funcheap.com/city-guide/tougher-fare-gates-barts-sfo-station/",
-      "start_date": "2024-11-04",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2025-12-31 03:55 UTC"
+  "updated_at": "2026-01-01 04:17 UTC"
 }
