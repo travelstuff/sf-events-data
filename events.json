@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Long-Empty Lot to Become Affordable LGBTQ+ Senior Housing",
+      "link": "https://sf.funcheap.com/city-guide/sfs-longempty-market-st-lot-affordable-lgbtq-senior-housing/",
+      "start_date": "2026-01-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Beloved SF Drag Club &#8216;Oasis&#8217; Saved After Surprise Donation",
+      "link": "https://sf.funcheap.com/city-guide/beloved-sf-drag-club-oasis-saved-surprise-donation/",
+      "start_date": "2026-01-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "New Year&#8217;s Eve 2025/2026 Fireworks In San Francisco",
       "link": "https://sf.funcheap.com/city-guide/years-eve-20252026-fireworks-san-francisco/",
       "start_date": "2025-12-31",
@@ -2085,21 +2099,7 @@
       "start_date": "2024-11-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "171-Foot PG&#038;E Building Hosts SF’s First Permanent Light Show",
-      "link": "https://sf.funcheap.com/city-guide/171foot-pge-building-hosts-sfs-permanent-light-show/",
-      "start_date": "2024-11-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF’s Golden Gate Park Gets Stunning New Glowing Archway",
-      "link": "https://sf.funcheap.com/city-guide/sfs-golden-gate-park-stunning-glowing-archway/",
-      "start_date": "2024-11-05",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-01 04:17 UTC"
+  "updated_at": "2026-01-02 03:59 UTC"
 }
