@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "SF Landmark &#8216;Waterfront Restaurant&#8217; Closes After 56 Years",
+      "link": "https://sf.funcheap.com/city-guide/sf-landmark-waterfront-restaurant-closes-56-years/",
+      "start_date": "2026-01-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Iconic SF Venue &#8216;Bottom of the Hill&#8217; Closing After 35 Years",
+      "link": "https://sf.funcheap.com/city-guide/iconic-sf-venue-bottom-hill-closing-35-years/",
+      "start_date": "2026-01-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco January Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-january-festivals-street-fairs-2025/",
+      "start_date": "2026-01-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Getting New 15-Story &#8220;Affordable&#8221; LGBTQ+ Senior Housing",
       "link": "https://sf.funcheap.com/city-guide/sfs-longempty-market-st-lot-affordable-lgbtq-senior-housing/",
       "start_date": "2026-01-01",
@@ -263,6 +284,13 @@
       "title": "San Francisco&#8217;s Cozy Winter Bars with Fireplaces (2025)",
       "link": "https://sf.funcheap.com/city-guide/san-franciscos-cozy-winter-bars-fireplaces/",
       "start_date": "2025-11-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
+      "start_date": "2025-11-15",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1863,13 +1891,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco February Festivals &#038; Street Fairs",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
-      "start_date": "2025-01-15",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s New UCSF/Mission Bay Ferry Starts in 2027",
       "link": "https://sf.funcheap.com/city-guide/sfs-ucsfmission-bay-ferry-starts-2027/",
       "start_date": "2025-01-14",
@@ -1922,13 +1943,6 @@
       "title": "75,000-Square-Foot Korean Food Hub Coming to Daly City",
       "link": "https://sf.funcheap.com/city-guide/75000squarefoot-korean-food-hub-coming-daly-city/",
       "start_date": "2025-01-09",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco January Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-january-festivals-street-fairs-2025/",
-      "start_date": "2025-01-02",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2085,21 +2099,7 @@
       "start_date": "2024-11-14",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF’s Contemporary Jewish Museum Closes (Free Visits Through December 15)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-contemporary-jewish-museum-closes-free-visits-december-15/",
-      "start_date": "2024-11-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF Loses 14,000 Parking Spaces Starting Today (Thanks to &#8220;Daylighting&#8221;)",
-      "link": "https://sf.funcheap.com/city-guide/sf-loses-14000-parking-spaces-starting-today-daylighting/",
-      "start_date": "2024-11-11",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-06 03:57 UTC"
+  "updated_at": "2026-01-07 03:57 UTC"
 }
