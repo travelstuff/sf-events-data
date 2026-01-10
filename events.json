@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "SF Fav &#8216;Super Duper Burgers&#8217; Set to Take Over Café in Union Square",
+      "link": "https://sf.funcheap.com/city-guide/sf-fav-super-duper-burgers-set-caf-union-square/",
+      "start_date": "2026-01-09",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Getting a Massive 95 ft. Tall Light Show",
+      "link": "https://sf.funcheap.com/city-guide/sfs-massive-95foottall-light-show/",
+      "start_date": "2026-01-08",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Landmark &#8216;Waterfront Restaurant&#8217; Closes After 56 Years",
       "link": "https://sf.funcheap.com/city-guide/sf-landmark-waterfront-restaurant-closes-56-years/",
       "start_date": "2026-01-06",
@@ -2085,21 +2099,7 @@
       "start_date": "2024-11-19",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Iconic SF Festival &#8220;How Weird Street Faire&#8221; Says Farewell After 25 Years",
-      "link": "https://sf.funcheap.com/city-guide/iconic-sf-festival-weird-street-faire-goodbye-25-years/",
-      "start_date": "2024-11-15",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "New Japanese Bowling Alley Finally Opens in SF at Stonestown Galleria",
-      "link": "https://sf.funcheap.com/city-guide/round1-sf-stonestown/",
-      "start_date": "2024-11-14",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-09 03:56 UTC"
+  "updated_at": "2026-01-10 03:50 UTC"
 }
