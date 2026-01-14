@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "BTS Leader RM’s First-Ever Public Art Show Coming to SFMOMA",
+      "link": "https://sf.funcheap.com/city-guide/bts-leader-rms-firstever-public-art-show-coming-sfmoma/",
+      "start_date": "2026-01-13",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Rare Studio Ghibli Experience Pops Up in San Jose Through Feb. 8",
+      "link": "https://sf.funcheap.com/city-guide/rare-studio-ghibli-experience-pops-san-jose-feb-8/",
+      "start_date": "2026-01-13",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Bay Ferries Transform Into Floating Pop-Up Concert Venues",
+      "link": "https://sf.funcheap.com/city-guide/sf-bay-ferries-transform-floating-popup-concert-venues/",
+      "start_date": "2026-01-13",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Fav &#8216;Super Duper Burgers&#8217; Set to Take Over Café in Union Square",
       "link": "https://sf.funcheap.com/city-guide/sf-fav-super-duper-burgers-set-caf-union-square/",
       "start_date": "2026-01-09",
@@ -2078,28 +2099,7 @@
       "start_date": "2024-11-21",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Bay Area&#8217;s 1st Ever Unofficial &#8220;Taco Bell Triathlon&#8221; is Here",
-      "link": "https://sf.funcheap.com/city-guide/taco-bell-triathlon/",
-      "start_date": "2024-11-21",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Cult Fav Fast Food &#8220;Raising Cane&#8217;s&#8221; Opens New Bay Area Restaurant",
-      "link": "https://sf.funcheap.com/city-guide/cult-fav-fast-food-raising-canes-coming-sf-peninsula/",
-      "start_date": "2024-11-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s New On-Demand Shuttle is Free (Until Dec. 11)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-ondemand-shuttle-free-dec-11/",
-      "start_date": "2024-11-19",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-13 03:55 UTC"
+  "updated_at": "2026-01-14 04:14 UTC"
 }
