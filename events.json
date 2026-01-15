@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Rare &#8220;Blood Moon&#8221; Total Lunar Eclipse Over SF (March 3)",
+      "link": "https://sf.funcheap.com/city-guide/rare-blood-moon-total-lunar-eclipse-sf-nov-8/",
+      "start_date": "2026-01-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "BTS Leader RM’s First-Ever Public Art Show Coming to SFMOMA",
       "link": "https://sf.funcheap.com/city-guide/bts-leader-rms-firstever-public-art-show-coming-sfmoma/",
       "start_date": "2026-01-13",
@@ -1933,7 +1940,7 @@
       "is_free": true
     },
     {
-      "title": "2025 Skywatchers Guide: Meteor Showers, Supermoons &#038; Total Lunar Eclipse",
+      "title": "2026 Skywatchers Guide: Meteor Showers, Supermoons &#038; Total Lunar Eclipse",
       "link": "https://sf.funcheap.com/city-guide/meteor-shower-guide-bay-area/",
       "start_date": "2025-01-14",
       "venue": "San Francisco",
@@ -2092,14 +2099,7 @@
       "start_date": "2024-11-25",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Muni Fares Set to Go Up Starting January 1",
-      "link": "https://sf.funcheap.com/city-guide/muni-fares-set-starting-january-1/",
-      "start_date": "2024-11-21",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-14 04:14 UTC"
+  "updated_at": "2026-01-15 03:57 UTC"
 }
