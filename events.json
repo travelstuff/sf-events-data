@@ -1,6 +1,55 @@
 {
   "events": [
     {
+      "title": "500+ Acres of Sonoma Coastal Land Open for First Time in a Century",
+      "link": "https://sf.funcheap.com/city-guide/500-acres-sonoma-coastal-land-open-time-century/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Gets New Free Art Fair in 10,000-Sq-Ft Warehouse (Jan 22-25)",
+      "link": "https://sf.funcheap.com/city-guide/sf-free-art-fair-10000sqft-warehouse-jan-2225/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Just Got A Colorful New Archway on the Embarcadero",
+      "link": "https://sf.funcheap.com/city-guide/sf-colorful-archway-embarcadero/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Finally! Big Sur’s Coastal Highway 1 Reopens After Nearly 3 Years",
+      "link": "https://sf.funcheap.com/city-guide/finally-big-surs-coastal-highway-1-reopens-3-years/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Massive Open-Air Boxing Match Aims for 150K Fans at SF Civic Center",
+      "link": "https://sf.funcheap.com/city-guide/massive-openair-boxing-match-aims-150k-fans-sf-civic-center/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "See Rare Photos of SF’s Muni From 1903 to Now at City Hall",
+      "link": "https://sf.funcheap.com/city-guide/rare-photos-sfs-muni-1903-city-hall/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "400+ National Parks Are Free on These 10 Days in 2026",
+      "link": "https://sf.funcheap.com/city-guide/free-national-parks-day/",
+      "start_date": "2026-01-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SFMOMA Ends Free First Thursdays (For Now)",
       "link": "https://sf.funcheap.com/city-guide/sfmoma-ends-free-thursdays/",
       "start_date": "2026-01-15",
@@ -9,7 +58,7 @@
     },
     {
       "title": "Rare &#8220;Blood Moon&#8221; Total Lunar Eclipse Over SF (March 3)",
-      "link": "https://sf.funcheap.com/city-guide/rare-blood-moon-total-lunar-eclipse-sf-nov-8/",
+      "link": "https://sf.funcheap.com/city-guide/rare-blood-moon-total-lunar-eclipse-sf/",
       "start_date": "2026-01-14",
       "venue": "San Francisco",
       "is_free": true
@@ -2038,13 +2087,6 @@
       "is_free": true
     },
     {
-      "title": "Here&#8217;s the 400+ National Parks Free On These 6 Days In 2025",
-      "link": "https://sf.funcheap.com/city-guide/free-national-parks-day/",
-      "start_date": "2024-12-12",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Stern Grove 2025 Dates Announced w/ First Big Headliner",
       "link": "https://sf.funcheap.com/city-guide/stern-grove-2025-dates-announced-big-headliner/",
       "start_date": "2024-12-12",
@@ -2057,49 +2099,7 @@
       "start_date": "2024-12-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Twin Peaks Just Got Two New Trails",
-      "link": "https://sf.funcheap.com/city-guide/sfs-twin-peaks-trails/",
-      "start_date": "2024-12-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Massive Concert Coming to Golden Gate Park: Zach Bryan &#038; Kings of Leon",
-      "link": "https://sf.funcheap.com/city-guide/massive-concert-coming-golden-gate-park-zach-bryan-kings-leon/",
-      "start_date": "2024-12-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "The Best of Winter in the Bay Area 2024/2025: What to Do and See",
-      "link": "https://sf.funcheap.com/city-guide/winter-bay/",
-      "start_date": "2024-12-02",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Built in 1894, SF&#8217;s Japanese Tea Garden Stuns w/ Newly Revamped Pagoda Plaza",
-      "link": "https://sf.funcheap.com/city-guide/built-1894-sfs-japanese-tea-garden-stuns-newly-revamped-pagoda-plaza/",
-      "start_date": "2024-11-27",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Ice Skating Rinks in San Francisco &#038; Bay Area (Winter 2024-25)",
-      "link": "https://sf.funcheap.com/city-guide/ice-skate-bay-area/",
-      "start_date": "2024-11-26",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s 25-Foot Tall Life-Size Victorian Gingerbread House",
-      "link": "https://sf.funcheap.com/city-guide/sfs-lifesize-gingerbread-house-the-fairmont/",
-      "start_date": "2024-11-25",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-16 03:54 UTC"
+  "updated_at": "2026-01-17 03:46 UTC"
 }
