@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "California Makes State Parks Free on MLK Day 2026",
+      "link": "https://sf.funcheap.com/city-guide/free-ca-state-parks-mlk-day-2026/",
+      "start_date": "2026-01-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "500+ Acres of Sonoma Coastal Land Open for First Time in a Century",
       "link": "https://sf.funcheap.com/city-guide/500-acres-sonoma-coastal-land-open-time-century/",
       "start_date": "2026-01-16",
@@ -2092,14 +2099,7 @@
       "start_date": "2024-12-12",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF Gets a Brand New Vintage &#8220;Photo Booth Museum&#8221;",
-      "link": "https://sf.funcheap.com/city-guide/sf-brand-vintage-photo-booth-museum/",
-      "start_date": "2024-12-11",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-18 04:02 UTC"
+  "updated_at": "2026-01-19 01:46 UTC"
 }
