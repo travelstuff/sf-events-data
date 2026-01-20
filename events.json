@@ -1,14 +1,35 @@
 {
   "events": [
     {
-      "title": "California Makes State Parks Free on MLK Day 2026",
+      "title": "LA Icon Randy’s Donuts Coming to the Bay Area",
+      "link": "https://sf.funcheap.com/city-guide/la-icon-randys-donuts-coming-bay-area/",
+      "start_date": "2026-01-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Williams Sonoma Closing After 23 Years, Chanel Takes Over",
+      "link": "https://sf.funcheap.com/city-guide/sfs-williams-sonoma-closing-23-years-chanel-takes/",
+      "start_date": "2026-01-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "New Dave &#038; Buster&#8217;s Coming to Oakland Waterfront",
+      "link": "https://sf.funcheap.com/city-guide/dave-busters-coming-oakland-waterfront/",
+      "start_date": "2026-01-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "200+ California State Parks Are Now Free for MLK Day 2026",
       "link": "https://sf.funcheap.com/city-guide/free-ca-state-parks-mlk-day-2026/",
       "start_date": "2026-01-18",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "500+ Acres of Sonoma Coastal Land Open for First Time in a Century",
+      "title": "500+ Acres of Sonoma Coast Open for First Time in a Century",
       "link": "https://sf.funcheap.com/city-guide/500-acres-sonoma-coastal-land-open-time-century/",
       "start_date": "2026-01-16",
       "venue": "San Francisco",
@@ -2078,28 +2099,7 @@
       "start_date": "2024-12-18",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Great Highway Gets Permit to Become Full-Time Park",
-      "link": "https://sf.funcheap.com/city-guide/sfs-great-highway-permit-fulltime-park/",
-      "start_date": "2024-12-13",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s &#8220;Bay Lights&#8221; Coming Back in 2025 w/ 50,000 New Lights",
-      "link": "https://sf.funcheap.com/city-guide/sfs-bay-lights-coming-2025-50000-lights/",
-      "start_date": "2024-12-12",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Stern Grove 2025 Dates Announced w/ First Big Headliner",
-      "link": "https://sf.funcheap.com/city-guide/stern-grove-2025-dates-announced-big-headliner/",
-      "start_date": "2024-12-12",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-19 01:46 UTC"
+  "updated_at": "2026-01-20 01:41 UTC"
 }
