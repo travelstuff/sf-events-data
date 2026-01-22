@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "SF Getting a Wild &#8220;Red Bull&#8221; F1 Race Car Street Show",
+      "link": "https://sf.funcheap.com/city-guide/formula-1-san-franciscos-waterfront/",
+      "start_date": "2026-01-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "The Bay Area Is Getting the Biggest H Mart in America",
+      "link": "https://sf.funcheap.com/city-guide/bay-area-biggest-mart-america/",
+      "start_date": "2026-01-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF&#8217;s Gorgeous Magnolias are Blooming in Golden Gate Park",
+      "link": "https://sf.funcheap.com/city-guide/sfs-magnolias-first-blooms/",
+      "start_date": "2026-01-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Biggest Mall Is Officially Closing",
       "link": "https://sf.funcheap.com/city-guide/sfs-biggest-mall-officially-closing/",
       "start_date": "2026-01-20",
@@ -151,6 +172,13 @@
       "title": "San Francisco January Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-january-festivals-street-fairs/",
       "start_date": "2026-01-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
+      "start_date": "2026-01-01",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -417,13 +445,6 @@
       "title": "San Francisco&#8217;s Cozy Winter Bars with Fireplaces (2025)",
       "link": "https://sf.funcheap.com/city-guide/san-franciscos-cozy-winter-bars-fireplaces/",
       "start_date": "2025-11-18",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
-      "start_date": "2025-11-15",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2017,13 +2038,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s Gorgeous Magnolia Bloom 2025 in Golden Gate Park",
-      "link": "https://sf.funcheap.com/city-guide/sfs-magnolias-first-blooms/",
-      "start_date": "2025-01-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s New UCSF/Mission Bay Ferry Starts in 2027",
       "link": "https://sf.funcheap.com/city-guide/sfs-ucsfmission-bay-ferry-starts-2027/",
       "start_date": "2025-01-14",
@@ -2085,21 +2099,7 @@
       "start_date": "2024-12-26",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Huge &#8220;Flower Market&#8221; Gets New Home After 58 Years",
-      "link": "https://sf.funcheap.com/city-guide/sfs-huge-flower-market-home-58-years/",
-      "start_date": "2024-12-26",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "A Luxe Sleeper Train from SF to LA Might Come in 2025",
-      "link": "https://sf.funcheap.com/city-guide/luxe-sleeper-train-sf-la-2025/",
-      "start_date": "2024-12-21",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-21 01:44 UTC"
+  "updated_at": "2026-01-22 01:44 UTC"
 }
