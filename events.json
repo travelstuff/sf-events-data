@@ -169,6 +169,13 @@
       "is_free": true
     },
     {
+      "title": "San Francisco March Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-march-festivals-street-fairs/",
+      "start_date": "2026-01-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco January Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-january-festivals-street-fairs/",
       "start_date": "2026-01-02",
@@ -192,6 +199,13 @@
     {
       "title": "Beloved SF Drag Club &#8216;Oasis&#8217; Saved After Surprise Donation",
       "link": "https://sf.funcheap.com/city-guide/beloved-sf-drag-club-oasis-saved-surprise-donation/",
+      "start_date": "2026-01-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "June Street Fairs &#038; Festivals 2026",
+      "link": "https://sf.funcheap.com/city-guide/june-street-fairs-festivals/",
       "start_date": "2026-01-01",
       "venue": "San Francisco",
       "is_free": true
@@ -1380,13 +1394,6 @@
       "is_free": true
     },
     {
-      "title": "June Street Fairs &#038; Festivals (2025)",
-      "link": "https://sf.funcheap.com/city-guide/june-street-fairs-festivals/",
-      "start_date": "2025-06-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "&#8220;No Kings Day&#8221; in the Bay Area: 40+ Anti-Trump Protests (June 14)",
       "link": "https://sf.funcheap.com/city-guide/kings-day-bay-area-30-antitrump-protests-june-14/",
       "start_date": "2025-06-13",
@@ -1856,13 +1863,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco March Festivals &#038; Street Fairs 2025",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-march-festivals-street-fairs/",
-      "start_date": "2025-02-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Ocean Beach Bonfires are Back for 2025",
       "link": "https://sf.funcheap.com/city-guide/ocean-beach-bonfires-return/",
       "start_date": "2025-02-24",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-01-22 01:44 UTC"
+  "updated_at": "2026-01-23 01:41 UTC"
 }
