@@ -1,7 +1,21 @@
 {
   "events": [
     {
-      "title": "Brand New EDM Venue Coming to SF Waterfront",
+      "title": "SF’s Brand New Massive City-Block-Sized Mural",
+      "link": "https://sf.funcheap.com/city-guide/sfs-brand-massive-cityblocksized-mural/",
+      "start_date": "2026-01-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "After 20 Years, This Iconic Oakland Venue Is Finally Reopening",
+      "link": "https://sf.funcheap.com/city-guide/20-years-iconic-oakland-venue-finally-reopening/",
+      "start_date": "2026-01-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Waterfront to Host Brand New EDM Concert Series",
       "link": "https://sf.funcheap.com/city-guide/brand-edm-venue-opening-sf/",
       "start_date": "2026-01-23",
       "venue": "San Francisco",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-01-09",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Huge Treasure Island Festival Not Happening in 2025",
-      "link": "https://sf.funcheap.com/city-guide/sfs-huge-treasure-island-festival-happening-2025/",
-      "start_date": "2025-01-09",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "75,000-Square-Foot Korean Food Hub Coming to Daly City",
-      "link": "https://sf.funcheap.com/city-guide/75000squarefoot-korean-food-hub-coming-daly-city/",
-      "start_date": "2025-01-09",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-24 01:38 UTC"
+  "updated_at": "2026-01-25 01:50 UTC"
 }
