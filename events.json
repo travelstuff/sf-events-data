@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
+      "start_date": "2026-01-26",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Brand New Massive City-Block-Sized Mural",
       "link": "https://sf.funcheap.com/city-guide/sfs-brand-massive-cityblocksized-mural/",
       "start_date": "2026-01-23",
@@ -200,13 +207,6 @@
       "title": "San Francisco January Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-january-festivals-street-fairs/",
       "start_date": "2026-01-02",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
-      "start_date": "2026-01-01",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-01-26 01:50 UTC"
+  "updated_at": "2026-01-27 01:47 UTC"
 }
