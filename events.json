@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Valentine&#8217;s Day Guide 2026",
+      "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
+      "start_date": "2026-01-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Lunar New Year 2026: A Bay Area Guide",
+      "link": "https://sf.funcheap.com/city-guide/lunar-year/",
+      "start_date": "2026-01-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco February Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
       "start_date": "2026-01-26",
@@ -1940,13 +1954,6 @@
       "is_free": true
     },
     {
-      "title": "Valentine&#8217;s Day Guide 2025",
-      "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
-      "start_date": "2025-02-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "The Castro Could Become SF&#8217;s Largest Open-Air &#8220;Party&#8221; Zone",
       "link": "https://sf.funcheap.com/city-guide/castro-sfs-largest-openair-party-zone/",
       "start_date": "2025-02-07",
@@ -1998,13 +2005,6 @@
     {
       "title": "SF’s California Historical Society Closes After 154 Years",
       "link": "https://sf.funcheap.com/city-guide/sfs-california-historical-society-closes-stanford-takes/",
-      "start_date": "2025-01-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Lunar New Year 2025: A Bay Area Guide",
-      "link": "https://sf.funcheap.com/city-guide/lunar-year/",
       "start_date": "2025-01-30",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-01-28 01:44 UTC"
+  "updated_at": "2026-01-29 01:56 UTC"
 }
