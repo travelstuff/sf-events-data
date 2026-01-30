@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SFO Now Has Fully Self-Driving Waymo Rides",
+      "link": "https://sf.funcheap.com/city-guide/sfo-fully-selfdriving-waymo-rides/",
+      "start_date": "2026-01-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Valentine&#8217;s Day Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
       "start_date": "2026-01-28",
@@ -18,6 +25,13 @@
       "title": "San Francisco February Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
       "start_date": "2026-01-26",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Super Bowl LX Week in the Bay Area: Fan Events, Concerts &#038; More (Feb. 2-8, 2026)",
+      "link": "https://sf.funcheap.com/city-guide/superbowl-lx-guide/",
+      "start_date": "2026-01-25",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -340,13 +354,6 @@
       "title": "SF’s Iconic &#8216;Lucky 13&#8217; Dive Bar Spot Might Reopen",
       "link": "https://sf.funcheap.com/city-guide/longshuttered-sf-dive-bar-lucky-13-coming/",
       "start_date": "2025-12-18",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Super Bowl LX Week in the Bay Area: Fan Events, Concerts &#038; More (Feb. 2-8, 2026)",
-      "link": "https://sf.funcheap.com/city-guide/superbowl-lx-guide/",
-      "start_date": "2025-12-17",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-09",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "45-ft Statue of Giant Naked Woman Coming to Union Square",
-      "link": "https://sf.funcheap.com/city-guide/45ft-statue-giant-naked-woman-coming-union-square/",
-      "start_date": "2025-01-09",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-29 01:56 UTC"
+  "updated_at": "2026-01-30 01:56 UTC"
 }
