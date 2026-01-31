@@ -1,6 +1,34 @@
 {
   "events": [
     {
+      "title": "SF Venue &#8216;Thee Parkside&#8217; Closing After 25 Years",
+      "link": "https://sf.funcheap.com/city-guide/sf-venue-thee-parkside-closing-25-years/",
+      "start_date": "2026-01-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Magnificent &#8220;Peak&#8221; Magnolia Bloom is Here (2026)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-magnificent-peak-magnolia-bloom/",
+      "start_date": "2026-01-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
+      "start_date": "2026-01-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-01-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SFO Now Has Fully Self-Driving Waymo Rides",
       "link": "https://sf.funcheap.com/city-guide/sfo-fully-selfdriving-waymo-rides/",
       "start_date": "2026-01-29",
@@ -18,13 +46,6 @@
       "title": "Lunar New Year 2026: A Bay Area Guide",
       "link": "https://sf.funcheap.com/city-guide/lunar-year/",
       "start_date": "2026-01-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco February Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
-      "start_date": "2026-01-26",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -270,13 +291,6 @@
       "title": "Free &#038; Late Night Rides Home for New Year&#8217;s Eve 2025-26",
       "link": "https://sf.funcheap.com/city-guide/free-late-night-rides-home-years-eve-202425/",
       "start_date": "2025-12-31",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2025-12-29",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1982,13 +1996,6 @@
       "is_free": true
     },
     {
-      "title": "SF’s Magnificent &#8220;Peak&#8221; Magnolia Bloom is Here (2025)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-magnificent-peak-magnolia-bloom/",
-      "start_date": "2025-02-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Viral Cookie Chain &#8220;Crumbl&#8221; Opens First SF Shop w/ Free Cookies (Feb. 7)",
       "link": "https://sf.funcheap.com/city-guide/viral-cookie-chain-crumbl-opens-sf-shop/",
       "start_date": "2025-02-05",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-13",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Popular &#8220;China Live&#8221; Restaurant Opening 13,000 Sqft Spin Off in South Bay",
-      "link": "https://sf.funcheap.com/city-guide/popular-china-live-restaurant-opening-13000-sqft-spin-concept-south-bay/",
-      "start_date": "2025-01-09",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-01-30 01:56 UTC"
+  "updated_at": "2026-01-31 01:52 UTC"
 }
