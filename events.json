@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Super Bowl LX Week in the Bay Area: Fan Events, Concerts &#038; More (Feb. 2-8, 2026)",
+      "link": "https://sf.funcheap.com/city-guide/superbowl-lx-guide/",
+      "start_date": "2026-02-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Venue &#8216;Thee Parkside&#8217; Closing After 25 Years",
       "link": "https://sf.funcheap.com/city-guide/sf-venue-thee-parkside-closing-25-years/",
       "start_date": "2026-01-30",
@@ -36,6 +43,13 @@
       "is_free": true
     },
     {
+      "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
+      "start_date": "2026-01-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Valentine&#8217;s Day Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
       "start_date": "2026-01-28",
@@ -46,13 +60,6 @@
       "title": "Lunar New Year 2026: A Bay Area Guide",
       "link": "https://sf.funcheap.com/city-guide/lunar-year/",
       "start_date": "2026-01-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Super Bowl LX Week in the Bay Area: Fan Events, Concerts &#038; More (Feb. 2-8, 2026)",
-      "link": "https://sf.funcheap.com/city-guide/superbowl-lx-guide/",
-      "start_date": "2026-01-25",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -501,13 +508,6 @@
       "title": "SF Bay Area&#8217;s Most Festive Christmas Bars for 2025",
       "link": "https://sf.funcheap.com/city-guide/sf-bay-areas-festive-christmas-bars/",
       "start_date": "2025-11-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
-      "start_date": "2025-11-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-02-02 02:04 UTC"
+  "updated_at": "2026-02-03 02:02 UTC"
 }
