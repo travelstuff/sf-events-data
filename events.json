@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
+      "start_date": "2026-02-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Super Bowl LX Week in the Bay Area: Fan Events, Concerts &#038; More (Feb. 2-8, 2026)",
       "link": "https://sf.funcheap.com/city-guide/superbowl-lx-guide/",
       "start_date": "2026-02-02",
@@ -39,13 +46,6 @@
       "title": "SFO Now Has Fully Self-Driving Waymo Rides",
       "link": "https://sf.funcheap.com/city-guide/sfo-fully-selfdriving-waymo-rides/",
       "start_date": "2026-01-29",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
-      "start_date": "2026-01-28",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-02-04 01:57 UTC"
+  "updated_at": "2026-02-05 01:59 UTC"
 }
