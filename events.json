@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Free Immersive Pop-Up Music Museum for Super Bowl Weekend (Feb. 5-7)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-free-immersive-popup-music-museum-super-bowl-weekend-feb-57/",
+      "start_date": "2026-02-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Awesome Places to Watch Super Bowl 2026 (San Francisco + Bay Area)",
       "link": "https://sf.funcheap.com/city-guide/super-bowl-watch-party-guide/",
       "start_date": "2026-02-04",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-14",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "MLK Day of Celebration &#038; Volunteering",
-      "link": "https://sf.funcheap.com/city-guide/mlk-weekend-volunteering-san-francisco/",
-      "start_date": "2025-01-13",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-02-06 01:58 UTC"
+  "updated_at": "2026-02-07 01:54 UTC"
 }
