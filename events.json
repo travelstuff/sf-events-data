@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Exploratorium + Asian Art Museum Offer Free Admission During SFUSD School Closures",
+      "link": "https://sf.funcheap.com/city-guide/free-admission-exploratorium-asian-art-art-museum-sfusd-school-closures/",
+      "start_date": "2026-02-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Chinatown&#8217;s Portsmouth Square Is Getting a Major Makeover",
+      "link": "https://sf.funcheap.com/city-guide/sf-chinatowns-portsmouth-square-major-makeover/",
+      "start_date": "2026-02-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "The Castro Night Market Is Back March 20 for a New 2026 Season",
       "link": "https://sf.funcheap.com/city-guide/castro-night-market-march-20-2026-season/",
       "start_date": "2026-02-10",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-01-23",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s New UCSF/Mission Bay Ferry Starts in 2027",
-      "link": "https://sf.funcheap.com/city-guide/sfs-ucsfmission-bay-ferry-starts-2027/",
-      "start_date": "2025-01-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "2026 Skywatchers Guide: Meteor Showers, Supermoons &#038; Total Lunar Eclipse",
-      "link": "https://sf.funcheap.com/city-guide/meteor-shower-guide-bay-area/",
-      "start_date": "2025-01-14",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-02-11 02:12 UTC"
+  "updated_at": "2026-02-12 02:05 UTC"
 }
