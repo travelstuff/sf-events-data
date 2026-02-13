@@ -1,6 +1,34 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s &#8216;Night of Ideas&#8217; Returns for a Huge Free Day-to-Midnight Festival",
+      "link": "https://sf.funcheap.com/city-guide/sfs-night-ideas-returns-huge-free-daytomidnight-festival/",
+      "start_date": "2026-02-12",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco March Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-march-festivals-street-fairs/",
+      "start_date": "2026-02-12",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Valentine&#8217;s Day Guide 2026",
+      "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
+      "start_date": "2026-02-12",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco Is Finally Getting a Sprouts Farmers Market",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-finally-sprouts-farmers-market/",
+      "start_date": "2026-02-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Exploratorium + Asian Art Museum Offer Free Admission During SFUSD School Closures",
       "link": "https://sf.funcheap.com/city-guide/free-admission-exploratorium-asian-art-art-museum-sfusd-school-closures/",
       "start_date": "2026-02-11",
@@ -10,6 +38,13 @@
     {
       "title": "SF Chinatown&#8217;s Portsmouth Square Is Getting a Major Makeover",
       "link": "https://sf.funcheap.com/city-guide/sf-chinatowns-portsmouth-square-major-makeover/",
+      "start_date": "2026-02-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Lunar New Year 2026: A Bay Area Guide",
+      "link": "https://sf.funcheap.com/city-guide/lunar-year/",
       "start_date": "2026-02-11",
       "venue": "San Francisco",
       "is_free": true
@@ -74,20 +109,6 @@
       "title": "SFO Now Has Fully Self-Driving Waymo Rides",
       "link": "https://sf.funcheap.com/city-guide/sfo-fully-selfdriving-waymo-rides/",
       "start_date": "2026-01-29",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Valentine&#8217;s Day Guide 2026",
-      "link": "https://sf.funcheap.com/city-guide/valentines-day-top-cheap-date-ideas/",
-      "start_date": "2026-01-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Lunar New Year 2026: A Bay Area Guide",
-      "link": "https://sf.funcheap.com/city-guide/lunar-year/",
-      "start_date": "2026-01-28",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -277,13 +298,6 @@
       "title": "Iconic SF Venue &#8216;Bottom of the Hill&#8217; Closing After 35 Years",
       "link": "https://sf.funcheap.com/city-guide/iconic-sf-venue-bottom-hill-closing-35-years/",
       "start_date": "2026-01-06",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco March Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-march-festivals-street-fairs/",
-      "start_date": "2026-01-04",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2085,21 +2099,7 @@
       "start_date": "2025-01-24",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Planned Parenthood&#8217;s Largest Health Center in USA Now Open in Downtown Oakland",
-      "link": "https://sf.funcheap.com/city-guide/planned-parenthoods-largest-health-center-usa-open-downtown-oakland/",
-      "start_date": "2025-01-23",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Bay Area&#8217;s 174-Year Old Bookstore Files Bankruptcy, Closes Berkeley Shop",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-174year-bookstore-files-bankruptcy-closes-berkeley-shop/",
-      "start_date": "2025-01-23",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-02-12 02:05 UTC"
+  "updated_at": "2026-02-13 02:08 UTC"
 }
