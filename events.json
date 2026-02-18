@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Mardi Gras &#038; Fat Tuesday Celebrations 2026",
+      "link": "https://sf.funcheap.com/city-guide/mardi-gras-san-francisco-style/",
+      "start_date": "2026-02-17",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Massive Free Downtown SF Festival Returns for 2026",
       "link": "https://sf.funcheap.com/city-guide/sfs-night-ideas-returns-huge-free-daytomidnight-festival/",
       "start_date": "2026-02-12",
@@ -1926,13 +1933,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s Mardi Gras &#038; Fat Tuesday Celebrations (2025)",
-      "link": "https://sf.funcheap.com/city-guide/mardi-gras-san-francisco-style/",
-      "start_date": "2025-03-03",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Popular BBQ Joint &#8220;Everett &#038; Jones&#8221; Opening in SF",
       "link": "https://sf.funcheap.com/city-guide/popular-bbq-joint-everett-jones-opening-sf/",
       "start_date": "2025-02-28",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-02-17 02:01 UTC"
+  "updated_at": "2026-02-18 02:04 UTC"
 }
