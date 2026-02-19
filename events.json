@@ -260,6 +260,13 @@
       "is_free": true
     },
     {
+      "title": "San Francisco April Festivals &#038; Street Fairs 2025",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
+      "start_date": "2026-01-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "BTS Leader RM’s First-Ever Public Art Show Coming to SFMOMA",
       "link": "https://sf.funcheap.com/city-guide/bts-leader-rms-firstever-public-art-show-coming-sfmoma/",
       "start_date": "2026-01-13",
@@ -1870,13 +1877,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco April Festivals &#038; Street Fairs 2025",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
-      "start_date": "2025-03-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "March 13 Marks Final Day for Cars on SF&#8217;s Great Highway",
       "link": "https://sf.funcheap.com/city-guide/march-13-marks-final-day-cars-sfs-great-highway/",
       "start_date": "2025-03-13",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-02-18 02:04 UTC"
+  "updated_at": "2026-02-19 02:03 UTC"
 }
