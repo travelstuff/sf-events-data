@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "After Three Years Dark, Bay Bridge’s &#8216;Bay Lights&#8217; Return March 20, 2026",
+      "link": "https://sf.funcheap.com/city-guide/years-dark-bay-bridges-bay-lights-return-march-20-2026/",
+      "start_date": "2026-02-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Mardi Gras &#038; Fat Tuesday Celebrations 2026",
       "link": "https://sf.funcheap.com/city-guide/mardi-gras-san-francisco-style/",
       "start_date": "2026-02-17",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s New 2025 Heart Sculptures On View at the Ferry Building",
-      "link": "https://sf.funcheap.com/city-guide/ferry-bldg-heart-sculptures/",
-      "start_date": "2025-01-24",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-02-19 02:03 UTC"
+  "updated_at": "2026-02-20 01:59 UTC"
 }
