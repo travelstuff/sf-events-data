@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "125+ Free Concerts Coming to Golden Gate Park in 2026",
+      "link": "https://sf.funcheap.com/city-guide/golden-gate-parks-bandshell-hosts-100-free-live-concerts/",
+      "start_date": "2026-02-24",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "&#8220;The Bay Lights&#8221; Returns After 3 Years Dark",
       "link": "https://sf.funcheap.com/city-guide/years-dark-bay-bridges-bay-lights-return-march-20-2026/",
       "start_date": "2026-02-19",
@@ -1975,13 +1982,6 @@
       "is_free": true
     },
     {
-      "title": "Golden Gate Park Hosts 125+ Free Live Concerts in 2025",
-      "link": "https://sf.funcheap.com/city-guide/golden-gate-parks-bandshell-hosts-100-free-live-concerts/",
-      "start_date": "2025-02-19",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s Free Muni Weekend: Lunar New Year 2025 + NBA All-Star Game (Feb. 15-16)",
       "link": "https://sf.funcheap.com/city-guide/sfs-free-muni-weekend-lunar-year-2025-nba-allstar-game-feb-1516/",
       "start_date": "2025-02-14",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-02-24 02:00 UTC"
+  "updated_at": "2026-02-25 02:03 UTC"
 }
