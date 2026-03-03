@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "75,000 Hand-Built Kites Are Flying Into SFMOMA",
+      "link": "https://sf.funcheap.com/city-guide/75000-handbuilt-kites-flying-sfmoma/",
+      "start_date": "2026-03-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "125+ Free Concerts Coming to Golden Gate Park in 2026",
       "link": "https://sf.funcheap.com/city-guide/golden-gate-parks-bandshell-hosts-100-free-live-concerts/",
       "start_date": "2026-02-24",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Historic Chinatown Restaurant Closes After 116 Years",
-      "link": "https://sf.funcheap.com/city-guide/historic-chinatown-restaurant-closes-116-years/",
-      "start_date": "2025-01-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-02 02:01 UTC"
+  "updated_at": "2026-03-03 02:02 UTC"
 }
