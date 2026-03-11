@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "San Francisco April Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
+      "start_date": "2026-03-10",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF&#8217;s St. Patrick&#8217;s Day Celebrations 2026",
+      "link": "https://sf.funcheap.com/city-guide/st-patricks-day-guide/",
+      "start_date": "2026-03-10",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Giant New Interactive Word Sculptures in Golden Gate Park",
       "link": "https://sf.funcheap.com/city-guide/sfs-giant-interactive-word-sculptures-debut-golden-mile/",
       "start_date": "2026-03-06",
@@ -297,13 +311,6 @@
     {
       "title": "Rare &#8220;Blood Moon&#8221; Total Lunar Eclipse Over SF (March 3)",
       "link": "https://sf.funcheap.com/city-guide/rare-blood-moon-total-lunar-eclipse-sf/",
-      "start_date": "2026-01-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco April Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
       "start_date": "2026-01-14",
       "venue": "San Francisco",
       "is_free": true
@@ -1947,13 +1954,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s St. Patrick&#8217;s Day Celebrations 2025",
-      "link": "https://sf.funcheap.com/city-guide/st-patricks-day-guide-2025/",
-      "start_date": "2025-03-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Beautiful Azaleas in Bloom at SF&#8217;s Japanese Tea Garden",
       "link": "https://sf.funcheap.com/city-guide/azaleas-japanese-tea-garden-san-francisco/",
       "start_date": "2025-03-06",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-03-10 01:55 UTC"
+  "updated_at": "2026-03-11 01:54 UTC"
 }
