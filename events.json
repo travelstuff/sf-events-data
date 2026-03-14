@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "H Mart&#8217;s First East Bay Store Opening w/ Korean Food Hall (Mar. 26)",
+      "link": "https://sf.funcheap.com/city-guide/marts-east-bay-store-opening-korean-food-hall-mar-26/",
+      "start_date": "2026-03-12",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco April Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
       "start_date": "2026-03-10",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-01-30",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF’s California Historical Society Closes After 154 Years",
-      "link": "https://sf.funcheap.com/city-guide/sfs-california-historical-society-closes-stanford-takes/",
-      "start_date": "2025-01-30",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-13 01:58 UTC"
+  "updated_at": "2026-03-14 01:56 UTC"
 }
