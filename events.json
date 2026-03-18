@@ -1,23 +1,23 @@
 {
   "events": [
     {
-      "title": "H Mart&#8217;s First East Bay Store Opening w/ Korean Food Hall (Mar. 26)",
-      "link": "https://sf.funcheap.com/city-guide/marts-east-bay-store-opening-korean-food-hall-mar-26/",
-      "start_date": "2026-03-12",
+      "title": "SF&#8217;s St. Patrick&#8217;s Day Celebrations 2026",
+      "link": "https://sf.funcheap.com/city-guide/st-patricks-day-guide/",
+      "start_date": "2026-03-17",
       "venue": "San Francisco",
       "is_free": true
     },
     {
       "title": "San Francisco April Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
-      "start_date": "2026-03-10",
+      "start_date": "2026-03-17",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "SF&#8217;s St. Patrick&#8217;s Day Celebrations 2026",
-      "link": "https://sf.funcheap.com/city-guide/st-patricks-day-guide/",
-      "start_date": "2026-03-10",
+      "title": "H Mart&#8217;s First East Bay Store Opening w/ Korean Food Hall (Mar. 26)",
+      "link": "https://sf.funcheap.com/city-guide/marts-east-bay-store-opening-korean-food-hall-mar-26/",
+      "start_date": "2026-03-12",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-03-17 02:01 UTC"
+  "updated_at": "2026-03-18 02:05 UTC"
 }
