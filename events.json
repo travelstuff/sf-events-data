@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Bay Area Oceanfront State Park Could Triple in Size",
+      "link": "https://sf.funcheap.com/city-guide/bay-area-oceanfront-state-park-triple-size/",
+      "start_date": "2026-03-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Viral Comedian Atsuko Okatsuka to Lead SF Cherry Blossom Parade",
+      "link": "https://sf.funcheap.com/city-guide/viral-comedian-atsuko-okatsuka-lead-sf-cherry-blossom-parade/",
+      "start_date": "2026-03-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s St. Patrick&#8217;s Day Celebrations 2026",
       "link": "https://sf.funcheap.com/city-guide/st-patricks-day-guide/",
       "start_date": "2026-03-17",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-02-05",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s &#8220;Barry Bonds Day&#8221;: Oracle Park Lights Up Orange (Feb. 5)",
-      "link": "https://sf.funcheap.com/city-guide/barry-bonds-day-oracle-park-feb-5/",
-      "start_date": "2025-02-05",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Parking in SF&#8217;s Chinatown All February for Lunar New Year 2025",
-      "link": "https://sf.funcheap.com/city-guide/2-hours-free-parking-sfs-chinatown-lunar-year-2025/",
-      "start_date": "2025-01-30",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-18 02:05 UTC"
+  "updated_at": "2026-03-19 02:06 UTC"
 }
