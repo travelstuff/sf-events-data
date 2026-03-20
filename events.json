@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Oakland to Transform Vacant Lot Into $16.9M Waterfront Park",
+      "link": "https://sf.funcheap.com/city-guide/oakland-transform-vacant-lot-169m-waterfront-park/",
+      "start_date": "2026-03-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "&#8220;The Bay Lights&#8221; Returns After 3 Years Dark",
+      "link": "https://sf.funcheap.com/city-guide/years-dark-bay-bridges-bay-lights-return-march-20-2026/",
+      "start_date": "2026-03-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Bay Area Oceanfront State Park Could Triple in Size",
       "link": "https://sf.funcheap.com/city-guide/bay-area-oceanfront-state-park-triple-size/",
       "start_date": "2026-03-18",
@@ -67,13 +81,6 @@
       "title": "125+ Free Concerts Coming to Golden Gate Park in 2026",
       "link": "https://sf.funcheap.com/city-guide/golden-gate-parks-bandshell-hosts-100-free-live-concerts/",
       "start_date": "2026-02-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "&#8220;The Bay Lights&#8221; Returns After 3 Years Dark",
-      "link": "https://sf.funcheap.com/city-guide/years-dark-bay-bridges-bay-lights-return-march-20-2026/",
-      "start_date": "2026-02-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-07",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Viral Cookie Chain &#8220;Crumbl&#8221; Opens First SF Shop w/ Free Cookies (Feb. 7)",
-      "link": "https://sf.funcheap.com/city-guide/viral-cookie-chain-crumbl-opens-sf-shop/",
-      "start_date": "2025-02-05",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-19 02:06 UTC"
+  "updated_at": "2026-03-20 02:00 UTC"
 }
