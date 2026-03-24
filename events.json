@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF’s Gorgeous &#8220;Peak&#8221; Cherry Blossom Bloom is Here",
+      "link": "https://sf.funcheap.com/city-guide/sfs-gorgeous-cherry-blossoms-hit-peak-bloom-japanese-tea-garden/",
+      "start_date": "2026-03-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Oakland to Transform Vacant Lot Into $16.9M Waterfront Park",
       "link": "https://sf.funcheap.com/city-guide/oakland-transform-vacant-lot-169m-waterfront-park/",
       "start_date": "2026-03-19",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-07",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Free Starbucks Coffee Day 2025",
-      "link": "https://sf.funcheap.com/city-guide/free-starbucks-coffee-day-feb-10/",
-      "start_date": "2025-02-07",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-23 02:07 UTC"
+  "updated_at": "2026-03-24 01:59 UTC"
 }
