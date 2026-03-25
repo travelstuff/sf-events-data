@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF’s Free “Sundown Cinema” Outdoor Movie Series is Back (June–Oct. 2026)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-free-sundown-cinema-outdoor-movie-series-juneoct-2026/",
+      "start_date": "2026-03-24",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Gorgeous &#8220;Peak&#8221; Cherry Blossom Bloom is Here",
       "link": "https://sf.funcheap.com/city-guide/sfs-gorgeous-cherry-blossoms-hit-peak-bloom-japanese-tea-garden/",
       "start_date": "2026-03-23",
@@ -192,6 +199,13 @@
     {
       "title": "San Francisco February Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
+      "start_date": "2026-01-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
       "start_date": "2026-01-30",
       "venue": "San Francisco",
       "is_free": true
@@ -918,7 +932,7 @@
       "is_free": true
     },
     {
-      "title": "San Francisco October Festivals &#038; Street Fairs",
+      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
       "start_date": "2025-10-11",
       "venue": "San Francisco",
@@ -1730,13 +1744,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2025",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
-      "start_date": "2025-04-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s Biographical Play of Icon Superstar &#8220;Joan Crawford&#8221;",
       "link": "https://sf.funcheap.com/city-guide/joan-crawford-superstar-biographical-play/",
       "start_date": "2025-04-29",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-07",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Jerry Garcia Museum Coming to San Francisco?",
-      "link": "https://sf.funcheap.com/city-guide/jerry-garcia-museum-plans/",
-      "start_date": "2025-02-07",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-24 01:59 UTC"
+  "updated_at": "2026-03-25 02:05 UTC"
 }
