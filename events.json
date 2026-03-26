@@ -1,8 +1,50 @@
 {
   "events": [
     {
+      "title": "Oakland&#8217;s New Parkway Theater Launches New Lifetime Pass",
+      "link": "https://sf.funcheap.com/city-guide/oaklands-parkway-theater-launches-lifetime-pass/",
+      "start_date": "2026-03-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Huge Free Waterfront Concert Coming to SF’s Embarcadero Plaza",
+      "link": "https://sf.funcheap.com/city-guide/huge-free-waterfront-concert-coming-sfs-embarcadero-plaza/",
+      "start_date": "2026-03-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF&#8217;s Gets a Brand New &#8220;Dinner Club&#8221;",
+      "link": "https://sf.funcheap.com/city-guide/sfs-brand-dinner-club/",
+      "start_date": "2026-03-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco April Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
+      "start_date": "2026-03-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-03-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Free “Sundown Cinema” Outdoor Movie Series is Back (June–Oct. 2026)",
       "link": "https://sf.funcheap.com/city-guide/sfs-free-sundown-cinema-outdoor-movie-series-juneoct-2026/",
+      "start_date": "2026-03-24",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
       "start_date": "2026-03-24",
       "venue": "San Francisco",
       "is_free": true
@@ -50,13 +92,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco April Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-april-festivals-street-fairs/",
-      "start_date": "2026-03-17",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "H Mart&#8217;s First East Bay Store Opening w/ Korean Food Hall (Mar. 26)",
       "link": "https://sf.funcheap.com/city-guide/marts-east-bay-store-opening-korean-food-hall-mar-26/",
       "start_date": "2026-03-12",
@@ -88,6 +123,13 @@
       "title": "75,000 Hand-Built Kites Are Flying Into SFMOMA",
       "link": "https://sf.funcheap.com/city-guide/75000-handbuilt-kites-flying-sfmoma/",
       "start_date": "2026-03-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "June Street Fairs &#038; Festivals 2026",
+      "link": "https://sf.funcheap.com/city-guide/june-street-fairs-festivals/",
+      "start_date": "2026-03-01",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -148,6 +190,13 @@
       "is_free": true
     },
     {
+      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
+      "start_date": "2026-02-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Lunar New Year 2026: A Bay Area Guide",
       "link": "https://sf.funcheap.com/city-guide/lunar-year/",
       "start_date": "2026-02-11",
@@ -199,20 +248,6 @@
     {
       "title": "San Francisco February Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-february-festivals-street-fairs/",
-      "start_date": "2026-01-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
-      "start_date": "2026-01-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-01-30",
       "venue": "San Francisco",
       "is_free": true
@@ -430,13 +465,6 @@
     {
       "title": "Beloved SF Drag Club &#8216;Oasis&#8217; Saved After Surprise Donation",
       "link": "https://sf.funcheap.com/city-guide/beloved-sf-drag-club-oasis-saved-surprise-donation/",
-      "start_date": "2026-01-01",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "June Street Fairs &#038; Festivals 2026",
-      "link": "https://sf.funcheap.com/city-guide/june-street-fairs-festivals/",
       "start_date": "2026-01-01",
       "venue": "San Francisco",
       "is_free": true
@@ -928,13 +956,6 @@
       "title": "Sunrise Ceremony at Alcatraz for Indigenous Peoples&#8217; Day (2025)",
       "link": "https://sf.funcheap.com/city-guide/sunrise-ceremony-alcatraz-indigenous-peoples-day-2025/",
       "start_date": "2025-10-12",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
-      "start_date": "2025-10-11",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2078,28 +2099,7 @@
       "start_date": "2025-02-12",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Dogpatch Park Gets Makeover for First Time in 43 Years",
-      "link": "https://sf.funcheap.com/city-guide/sfs-dogpatch-park-makeover-time-43-years/",
-      "start_date": "2025-02-11",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "60+ Free SF Guided Walking Tours Over President&#8217;s Day Weekend 2025",
-      "link": "https://sf.funcheap.com/city-guide/presidents-day-weekend-free-guided-walking-tours/",
-      "start_date": "2025-02-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "The Castro Could Become SF&#8217;s Largest Open-Air &#8220;Party&#8221; Zone",
-      "link": "https://sf.funcheap.com/city-guide/castro-sfs-largest-openair-party-zone/",
-      "start_date": "2025-02-07",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-25 02:05 UTC"
+  "updated_at": "2026-03-26 02:11 UTC"
 }
