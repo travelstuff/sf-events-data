@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
+      "start_date": "2026-03-26",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Oakland&#8217;s New Parkway Theater Launches New Lifetime Pass",
       "link": "https://sf.funcheap.com/city-guide/oaklands-parkway-theater-launches-lifetime-pass/",
       "start_date": "2026-03-25",
@@ -15,7 +22,7 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s Gets a Brand New &#8220;Dinner Club&#8221;",
+      "title": "SF Gets a Brand New &#8220;Dinner Club&#8221;",
       "link": "https://sf.funcheap.com/city-guide/sfs-brand-dinner-club/",
       "start_date": "2026-03-25",
       "venue": "San Francisco",
@@ -1968,13 +1975,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs (2025)",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
-      "start_date": "2025-03-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Brand New Nintendo Store Opens in SF May 15",
       "link": "https://sf.funcheap.com/city-guide/brand-nintendo-store-opens-sf-15/",
       "start_date": "2025-03-19",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-03-26 02:11 UTC"
+  "updated_at": "2026-03-27 02:12 UTC"
 }
