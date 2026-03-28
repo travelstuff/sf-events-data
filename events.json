@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "90+ “No Kings” Bay Area Protests (March 28)",
+      "link": "https://sf.funcheap.com/city-guide/90-kings-bay-area-protests-march-28/",
+      "start_date": "2026-03-27",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
       "start_date": "2026-03-26",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-12",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF’s Jackson Playground Gets New Basketball Court Mural",
-      "link": "https://sf.funcheap.com/city-guide/sfs-jackson-playground-basketball-court-mural/",
-      "start_date": "2025-02-12",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-27 02:12 UTC"
+  "updated_at": "2026-03-28 02:03 UTC"
 }
