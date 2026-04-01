@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "New Irish Cultural District Coming to San Francisco",
+      "link": "https://sf.funcheap.com/city-guide/irish-cultural-district-coming-san-francisco/",
+      "start_date": "2026-03-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Super Duper East Bay Grand Opening w/ Free Burgers (Mar 31)",
+      "link": "https://sf.funcheap.com/city-guide/super-duper-east-bay-grand-opening-free-burgers-mar-31/",
+      "start_date": "2026-03-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "90+ “No Kings” Bay Area Protests (March 28)",
       "link": "https://sf.funcheap.com/city-guide/90-kings-bay-area-protests-march-28/",
       "start_date": "2026-03-27",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-02-14",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "NBA All-Star Weekend Takes Over San Francisco",
-      "link": "https://sf.funcheap.com/city-guide/nba-allstar-weekend-takes-san-francisco/",
-      "start_date": "2025-02-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Oakland is Getting a Brand New 1,000 Person Capacity Music Venue",
-      "link": "https://sf.funcheap.com/city-guide/downtown-oakland-brand-10000capacity-music-venue/",
-      "start_date": "2025-02-12",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-03-31 02:12 UTC"
+  "updated_at": "2026-04-01 02:30 UTC"
 }
