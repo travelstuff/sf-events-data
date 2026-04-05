@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
+      "start_date": "2026-04-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "New Irish Cultural District Coming to SF?",
       "link": "https://sf.funcheap.com/city-guide/irish-cultural-district-coming-san-francisco/",
       "start_date": "2026-03-30",
@@ -18,13 +25,6 @@
       "title": "90+ “No Kings” Bay Area Protests (March 28)",
       "link": "https://sf.funcheap.com/city-guide/90-kings-bay-area-protests-march-28/",
       "start_date": "2026-03-27",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
-      "start_date": "2026-03-26",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-04-04 02:03 UTC"
+  "updated_at": "2026-04-05 02:25 UTC"
 }
