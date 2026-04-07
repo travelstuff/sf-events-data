@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "50+ Free Concerts Return to SF’s Civic Center for 2026",
+      "link": "https://sf.funcheap.com/city-guide/free-lunch-concerts-return-sfs-civic-center-food-trucks/",
+      "start_date": "2026-04-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Yerba Buena Gardens Festival is Back for 2026",
+      "link": "https://sf.funcheap.com/city-guide/yerba-buena-gardens-festival-guide/",
+      "start_date": "2026-04-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "&#8220;California Henge&#8221;: San Francisco’s Natural Light Show (April 9)",
       "link": "https://sf.funcheap.com/city-guide/california-henge-san-franciscos-natural-light-show-spring/",
       "start_date": "2026-04-04",
@@ -1807,13 +1821,6 @@
       "is_free": true
     },
     {
-      "title": "Yerba Buena Gardens Festival is Back for 2025",
-      "link": "https://sf.funcheap.com/city-guide/yerba-buena-gardens-festival-guide/",
-      "start_date": "2025-04-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF&#8217;s Downtown Hoedown: New Country-Themed Monthly Block Party (May 1)",
       "link": "https://sf.funcheap.com/city-guide/sfs-downtown-hoedown-countrythemed-monthly-block-party-1/",
       "start_date": "2025-04-28",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-24",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Ocean Beach Bonfires are Back for 2025",
-      "link": "https://sf.funcheap.com/city-guide/ocean-beach-bonfires-return/",
-      "start_date": "2025-02-24",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-06 02:26 UTC"
+  "updated_at": "2026-04-07 02:13 UTC"
 }
