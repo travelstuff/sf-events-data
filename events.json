@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
+      "start_date": "2026-04-12",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Free Stern Grove Concerts Back for 2026 (Full Lineup)",
       "link": "https://sf.funcheap.com/city-guide/stern-grove-festival-drops-epic-2026-lineup/",
       "start_date": "2026-04-07",
@@ -31,13 +38,6 @@
     {
       "title": "SF’s Stunning “California Henge” Sunrise This Week (April 9)",
       "link": "https://sf.funcheap.com/city-guide/california-henge-san-franciscos-natural-light-show-spring/",
-      "start_date": "2026-04-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
       "start_date": "2026-04-04",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-04-12 02:29 UTC"
+  "updated_at": "2026-04-13 02:34 UTC"
 }
