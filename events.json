@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Earth Day 2026 Festivals &#038; How to Volunteer",
+      "link": "https://sf.funcheap.com/city-guide/earth-day/",
+      "start_date": "2026-04-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Your Guide to 420 Day Around the Bay",
+      "link": "https://sf.funcheap.com/city-guide/420-bay-event-guide/",
+      "start_date": "2026-04-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco&#8217;s Spring Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/san-franciscos-spring-festivals-street-fairs/",
       "start_date": "2026-04-12",
@@ -2024,13 +2038,6 @@
       "is_free": true
     },
     {
-      "title": "Earth Day Festivals &#038; How to Volunteer",
-      "link": "https://sf.funcheap.com/city-guide/earth-day/",
-      "start_date": "2025-03-18",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "March 13 Marks Final Day for Cars on SF&#8217;s Great Highway",
       "link": "https://sf.funcheap.com/city-guide/march-13-marks-final-day-cars-sfs-great-highway/",
       "start_date": "2025-03-13",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-26",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s New Simpsons Inspired Pop Up Bar &#8220;Moe&#8217;z&#8221;",
-      "link": "https://sf.funcheap.com/city-guide/sfs-simpsons-inspired-pop-bar-moez/",
-      "start_date": "2025-02-25",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-14 02:28 UTC"
+  "updated_at": "2026-04-15 02:27 UTC"
 }
