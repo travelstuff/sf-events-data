@@ -1,15 +1,22 @@
 {
   "events": [
     {
-      "title": "Earth Day 2026 Festivals &#038; How to Volunteer",
-      "link": "https://sf.funcheap.com/city-guide/earth-day/",
-      "start_date": "2026-04-14",
+      "title": "Mother&#8217;s Day Weekend Fun Around the Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/mothers-day-weekend-fun/",
+      "start_date": "2026-04-20",
       "venue": "San Francisco",
       "is_free": true
     },
     {
       "title": "Your Guide to 420 Day Around the Bay",
       "link": "https://sf.funcheap.com/city-guide/420-bay-event-guide/",
+      "start_date": "2026-04-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Earth Day 2026 Festivals &#038; How to Volunteer",
+      "link": "https://sf.funcheap.com/city-guide/earth-day/",
       "start_date": "2026-04-14",
       "venue": "San Francisco",
       "is_free": true
@@ -2092,14 +2099,7 @@
       "start_date": "2025-02-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Daly City&#8217;s New Huge Korean Market &#038; Food Hall Opens March 2025",
-      "link": "https://sf.funcheap.com/city-guide/daly-citys-huge-korean-market-food-hall-opens-march-2025/",
-      "start_date": "2025-02-26",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-20 02:34 UTC"
+  "updated_at": "2026-04-21 02:30 UTC"
 }
