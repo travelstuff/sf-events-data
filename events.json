@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Alcatraz Tours Are Suddenly Canceled This Week",
+      "link": "https://sf.funcheap.com/city-guide/alcatraz-tours-suddenly-canceled-week/",
+      "start_date": "2026-04-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Viral Bagel Chain Moving Into East Bay’s Former Iconic Taco Bell",
+      "link": "https://sf.funcheap.com/city-guide/viral-bagel-chain-moving-east-bays-iconic-taco-bell/",
+      "start_date": "2026-04-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Mother&#8217;s Day Weekend Fun Around the Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/mothers-day-weekend-fun/",
       "start_date": "2026-04-20",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-03-04",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Outside Lands&#8217; Eager Beaver Pre-Sale: March 5 (2025)",
-      "link": "https://sf.funcheap.com/city-guide/lands-eager-beaver-presale-march-5/",
-      "start_date": "2025-03-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Popular BBQ Joint &#8220;Everett &#038; Jones&#8221; Opening in SF",
-      "link": "https://sf.funcheap.com/city-guide/popular-bbq-joint-everett-jones-opening-sf/",
-      "start_date": "2025-02-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-21 02:30 UTC"
+  "updated_at": "2026-04-22 02:28 UTC"
 }
