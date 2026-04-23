@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "A New 5-Acre Park Finally Coming to the Marina Waterfront",
+      "link": "https://sf.funcheap.com/city-guide/5acre-park-finally-coming-marina-waterfront/",
+      "start_date": "2026-04-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Could Get a Massive New 14-Story Hospital",
+      "link": "https://sf.funcheap.com/city-guide/sf-massive-14story-hospital/",
+      "start_date": "2026-04-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Legendary SF Beer Bar Toronado Is Being Sold to One of Its Regulars",
+      "link": "https://sf.funcheap.com/city-guide/legendary-sf-beer-bar-toronado-sold-regulars/",
+      "start_date": "2026-04-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Alcatraz Tours Are Suddenly Canceled This Week",
       "link": "https://sf.funcheap.com/city-guide/alcatraz-tours-suddenly-canceled-week/",
       "start_date": "2026-04-21",
@@ -2078,28 +2099,7 @@
       "start_date": "2025-03-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Cult Fav Chicken Chain &#8220;Raising Cane’s&#8221; Coming to SF",
-      "link": "https://sf.funcheap.com/city-guide/cult-fav-chicken-chain-raising-canes-coming-sf/",
-      "start_date": "2025-03-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Beautiful Azaleas in Bloom at SF&#8217;s Japanese Tea Garden",
-      "link": "https://sf.funcheap.com/city-guide/azaleas-japanese-tea-garden-san-francisco/",
-      "start_date": "2025-03-06",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Getting a Brand New 5-Acre Embarcadero Waterfront Park",
-      "link": "https://sf.funcheap.com/city-guide/sfs-brand-5acre-embarcadero-waterfront-park/",
-      "start_date": "2025-03-04",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-22 02:28 UTC"
+  "updated_at": "2026-04-23 02:32 UTC"
 }
