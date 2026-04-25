@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Cable Car Rides Rising to $18 in 2028",
+      "link": "https://sf.funcheap.com/city-guide/sfs-cable-car-rides-rising-18-2028/",
+      "start_date": "2026-04-24",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "A New 5-Acre Park Finally Coming to the Marina Waterfront",
       "link": "https://sf.funcheap.com/city-guide/5acre-park-finally-coming-marina-waterfront/",
       "start_date": "2026-04-22",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-03-12",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Massive European-Style Food Hall Planned for East Bay",
-      "link": "https://sf.funcheap.com/city-guide/massive-europeanstyle-food-hall-planned-east-bay/",
-      "start_date": "2025-03-11",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-24 02:32 UTC"
+  "updated_at": "2026-04-25 02:22 UTC"
 }
