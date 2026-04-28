@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-04-27",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Cable Car Rides Rising to $18 in 2028",
       "link": "https://sf.funcheap.com/city-guide/sfs-cable-car-rides-rising-18-2028/",
       "start_date": "2026-04-24",
@@ -73,13 +80,6 @@
     {
       "title": "SF’s Free Stern Grove Concerts Back for 2026 (Full Lineup)",
       "link": "https://sf.funcheap.com/city-guide/stern-grove-festival-drops-epic-2026-lineup/",
-      "start_date": "2026-04-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-04-07",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-04-27 02:39 UTC"
+  "updated_at": "2026-04-28 02:47 UTC"
 }
