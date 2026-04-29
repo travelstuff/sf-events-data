@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF’s Twin Peaks Getting New Park + Trails w/ 360° Views",
+      "link": "https://sf.funcheap.com/city-guide/sfs-twin-peaks-park-trails-360-views/",
+      "start_date": "2026-04-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-04-27",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-03-13",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Castro Theatre Reopening Delayed Until Fall 2025",
-      "link": "https://sf.funcheap.com/city-guide/castro-theatre-reopening-delayed-fall-2025/",
-      "start_date": "2025-03-12",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-28 02:47 UTC"
+  "updated_at": "2026-04-29 02:46 UTC"
 }
