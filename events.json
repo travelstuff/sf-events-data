@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "SFO Now Lets You Walk Loved Ones to the Gate Again",
+      "link": "https://sf.funcheap.com/city-guide/sfo-lets-walk-loved-gate/",
+      "start_date": "2026-04-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Giant 2,000-Lb Sea Lion “Chonkers” Takes Over Pier 39",
+      "link": "https://sf.funcheap.com/city-guide/giant-2000lb-sea-lion-chonkers-takes-pier-39/",
+      "start_date": "2026-04-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
+      "start_date": "2026-04-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Twin Peaks Getting New Park + Trails w/ 360° Views",
       "link": "https://sf.funcheap.com/city-guide/sfs-twin-peaks-park-trails-360-views/",
       "start_date": "2026-04-28",
@@ -164,13 +185,6 @@
     {
       "title": "SF’s Free “Sundown Cinema” Outdoor Movie Series is Back (June–Oct. 2026)",
       "link": "https://sf.funcheap.com/city-guide/sfs-free-sundown-cinema-outdoor-movie-series-juneoct-2026/",
-      "start_date": "2026-03-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco&#8217;s May Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-may-festivals-street-fairs/",
       "start_date": "2026-03-24",
       "venue": "San Francisco",
       "is_free": true
@@ -2085,21 +2099,7 @@
       "start_date": "2025-03-25",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Brand New Nintendo Store Opens in SF May 15",
-      "link": "https://sf.funcheap.com/city-guide/brand-nintendo-store-opens-sf-15/",
-      "start_date": "2025-03-19",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "March 13 Marks Final Day for Cars on SF&#8217;s Great Highway",
-      "link": "https://sf.funcheap.com/city-guide/march-13-marks-final-day-cars-sfs-great-highway/",
-      "start_date": "2025-03-13",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-04-29 02:46 UTC"
+  "updated_at": "2026-04-30 02:48 UTC"
 }
