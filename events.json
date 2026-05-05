@@ -134,6 +134,13 @@
       "is_free": true
     },
     {
+      "title": "Every Night Market in San Francisco Bay Area in 2026",
+      "link": "https://sf.funcheap.com/city-guide/night-market-san-francisco-bay-area/",
+      "start_date": "2026-04-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "New Irish Cultural District Coming to SF?",
       "link": "https://sf.funcheap.com/city-guide/irish-cultural-district-coming-san-francisco/",
       "start_date": "2026-03-30",
@@ -1786,13 +1793,6 @@
       "is_free": true
     },
     {
-      "title": "Every Night Market in San Francisco Bay Area in 2025",
-      "link": "https://sf.funcheap.com/city-guide/night-market-san-francisco-bay-area/",
-      "start_date": "2025-06-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "6 Awesome Bay Area Swimming Holes (Summer 2025)",
       "link": "https://sf.funcheap.com/city-guide/bay-areas-best-swimming-holes/",
       "start_date": "2025-05-28",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-04 02:44 UTC"
+  "updated_at": "2026-05-05 02:37 UTC"
 }
