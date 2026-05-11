@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Mother&#8217;s Day Weekend Fun Around the Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/mothers-day-weekend-fun/",
+      "start_date": "2026-05-10",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Yerba Buena Gardens Festival is Back for 2026",
       "link": "https://sf.funcheap.com/city-guide/yerba-buena-gardens-festival-guide/",
       "start_date": "2026-04-30",
@@ -81,13 +88,6 @@
       "title": "Viral Bagel Chain Moving Into East Bay’s Former Iconic Taco Bell",
       "link": "https://sf.funcheap.com/city-guide/viral-bagel-chain-moving-east-bays-iconic-taco-bell/",
       "start_date": "2026-04-21",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Mother&#8217;s Day Weekend Fun Around the Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/mothers-day-weekend-fun/",
-      "start_date": "2026-04-20",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-10 02:49 UTC"
+  "updated_at": "2026-05-11 02:58 UTC"
 }
