@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF Presidio’s Free Summer Festivals &#038; Outdoor Movies Are Back for 2026",
+      "link": "https://sf.funcheap.com/city-guide/sf-presidios-free-summer-festivals-outdoor-movies/",
+      "start_date": "2026-05-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Mother&#8217;s Day Weekend Fun Around the Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/mothers-day-weekend-fun/",
       "start_date": "2026-05-10",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-03-26",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Popular Chicken Chain &#8216;Raising Cane’s&#8217; Opens in San Jose April 1",
-      "link": "https://sf.funcheap.com/city-guide/new-san-jose-raising-canes/",
-      "start_date": "2025-03-25",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-05-11 02:58 UTC"
+  "updated_at": "2026-05-12 02:50 UTC"
 }
