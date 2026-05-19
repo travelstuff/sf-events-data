@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
+      "start_date": "2026-05-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Free Shuttle Goes Straight to Tunnel Tops &#038; Baker Beach",
       "link": "https://sf.funcheap.com/city-guide/sfs-free-shuttle-straight-tunnel-tops-baker-beach/",
       "start_date": "2026-05-15",
@@ -1849,13 +1856,6 @@
       "is_free": true
     },
     {
-      "title": "100+ Things to Do Over Memorial Day Weekend 2025 (San Francisco + Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/50-memorial-day-weekend-2023-san-francisco-bay-area/",
-      "start_date": "2025-05-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF’s First Day of Fall 2025: Autumn Equinox Arrives Sept 22",
       "link": "https://sf.funcheap.com/city-guide/sfs-day-fall-2025-autumn-equinox-arrives-sept-22/",
       "start_date": "2025-05-21",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-18 03:33 UTC"
+  "updated_at": "2026-05-19 03:27 UTC"
 }
