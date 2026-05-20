@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Huge Free Outdoor &#8220;Pride Comedy Night&#8221; + Cocktail Party Returns to Thrive City for 2026",
+      "link": "https://sf.funcheap.com/city-guide/sfs-hosts-huge-free-outdoor-pride-comedy-night-festival-2/",
+      "start_date": "2026-05-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
       "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
       "start_date": "2026-05-18",
@@ -298,6 +305,13 @@
       "title": "Oakland Throws Big Homecoming Rally for Olympic Gold Medalist Alysa Liu (March 12)",
       "link": "https://sf.funcheap.com/city-guide/oakland-throws-free-homecoming-rally-olympic-gold-medalist-alysa-liu-march-12/",
       "start_date": "2026-03-05",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco August Festivals &#038; Street Fairs",
+      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
+      "start_date": "2026-03-04",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1695,13 +1709,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco August Festivals &#038; Street Fairs",
-      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
-      "start_date": "2025-07-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Where to Buy Fireworks in San Francisco Bay Area (2025)",
       "link": "https://sf.funcheap.com/city-guide/safe-sane-fireworks-guide/",
       "start_date": "2025-07-03",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-03-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Brand New Japanese Supermarket Coming to South Bay in 2025",
-      "link": "https://sf.funcheap.com/city-guide/brand-japanese-supermarket-coming-south-bay-2025/",
-      "start_date": "2025-03-26",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-05-19 03:27 UTC"
+  "updated_at": "2026-05-20 03:27 UTC"
 }
