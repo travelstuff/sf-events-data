@@ -57,6 +57,13 @@
       "is_free": true
     },
     {
+      "title": "San Francisco Pride Guide 2026",
+      "link": "https://sf.funcheap.com/city-guide/san-francisco-pride-guide-2/",
+      "start_date": "2026-05-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Yerba Buena Gardens Festival is Back for 2026",
       "link": "https://sf.funcheap.com/city-guide/yerba-buena-gardens-festival-guide/",
       "start_date": "2026-04-30",
@@ -1765,13 +1772,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco Pride Guide 2025",
-      "link": "https://sf.funcheap.com/city-guide/san-francisco-pride-guide-2/",
-      "start_date": "2025-06-19",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "New Movie Theater Coming Back to SF&#8217;s 1000 Van Ness",
       "link": "https://sf.funcheap.com/city-guide/movie-theater-coming-sfs-1000-van-ness/",
       "start_date": "2025-06-18",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-22 03:32 UTC"
+  "updated_at": "2026-05-23 02:50 UTC"
 }
