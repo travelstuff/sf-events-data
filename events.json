@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
+      "start_date": "2026-05-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-05-20",
@@ -11,13 +18,6 @@
       "title": "SF&#8217;s Huge Free Outdoor &#8220;Pride Comedy Night&#8221; + Cocktail Party Returns to Thrive City for 2026",
       "link": "https://sf.funcheap.com/city-guide/sfs-hosts-huge-free-outdoor-pride-comedy-night-festival-2/",
       "start_date": "2026-05-19",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
-      "start_date": "2026-05-18",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-23 02:50 UTC"
+  "updated_at": "2026-05-24 03:29 UTC"
 }
