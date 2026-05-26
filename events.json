@@ -169,6 +169,13 @@
       "is_free": true
     },
     {
+      "title": "San Francisco July Festivals &#038; Street Fairs (2026)",
+      "link": "https://sf.funcheap.com/city-guide/july-street-fairs-festivals/",
+      "start_date": "2026-04-07",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "50+ Free Concerts Return to SF’s Civic Center for 2026",
       "link": "https://sf.funcheap.com/city-guide/free-lunch-concerts-return-sfs-civic-center-food-trucks/",
       "start_date": "2026-04-06",
@@ -1681,13 +1688,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco July Festivals &#038; Street Fairs (2025)",
-      "link": "https://sf.funcheap.com/city-guide/july-street-fairs-festivals/",
-      "start_date": "2025-07-07",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF’s Historic Golf Course Turns 100",
       "link": "https://sf.funcheap.com/city-guide/sfs-historic-harding-park-golf-turns-100/",
       "start_date": "2025-07-06",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-05-25 03:40 UTC"
+  "updated_at": "2026-05-26 03:25 UTC"
 }
