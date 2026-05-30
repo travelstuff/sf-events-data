@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF’s New 6,200-Sq.-Ft. Food Hall w/ Epic Views Opens Soon in the Presidio",
+      "link": "https://sf.funcheap.com/city-guide/sfs-6200sqft-food-hall-epic-views-opens-presidio/",
+      "start_date": "2026-05-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
       "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
       "start_date": "2026-05-23",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-04-01",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Canada’s Largest Asian Grocery Chain is Coming to SF",
-      "link": "https://sf.funcheap.com/city-guide/canadas-largest-asian-grocery-chain-coming-sf/",
-      "start_date": "2025-03-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-05-29 03:28 UTC"
+  "updated_at": "2026-05-30 02:55 UTC"
 }
