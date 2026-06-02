@@ -85,6 +85,13 @@
       "is_free": true
     },
     {
+      "title": "Every Night Market in San Francisco Bay Area in 2026",
+      "link": "https://sf.funcheap.com/city-guide/night-market-san-francisco-bay-area/",
+      "start_date": "2026-05-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco Pride Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-pride-guide-2/",
       "start_date": "2026-05-01",
@@ -214,13 +221,6 @@
       "title": "SF’s Stunning “California Henge” Sunrise This Week (April 9)",
       "link": "https://sf.funcheap.com/city-guide/california-henge-san-franciscos-natural-light-show-spring/",
       "start_date": "2026-04-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Every Night Market in San Francisco Bay Area in 2026",
-      "link": "https://sf.funcheap.com/city-guide/night-market-san-francisco-bay-area/",
-      "start_date": "2026-04-01",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-06-01 03:56 UTC"
+  "updated_at": "2026-06-02 03:51 UTC"
 }
