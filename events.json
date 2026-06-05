@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "BART Tests Ads on Its New Fare Gates",
+      "link": "https://sf.funcheap.com/city-guide/bart-tests-ads-fare-gates/",
+      "start_date": "2026-06-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "&#8220;Pay What You Can&#8217; Day Coming to Bay Area Restaurants (Aug. 26)",
       "link": "https://sf.funcheap.com/city-guide/pay-can-day-coming-bay-area-restaurants-aug-26/",
       "start_date": "2026-05-31",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-04-05",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Happy 155th Birthday to Golden Gate Park",
-      "link": "https://sf.funcheap.com/city-guide/golden-gate-parks-birthday-san-francisco/",
-      "start_date": "2025-04-03",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-04 03:52 UTC"
+  "updated_at": "2026-06-05 03:37 UTC"
 }
