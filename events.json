@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Huge Free Outdoor &#8220;Pride Comedy Night&#8221; + Cocktail Party Returns to Thrive City for 2026",
+      "link": "https://sf.funcheap.com/city-guide/sfs-hosts-huge-free-outdoor-pride-comedy-night-festival-2/",
+      "start_date": "2026-06-05",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "BART Tests Ads on Its New Fare Gates",
       "link": "https://sf.funcheap.com/city-guide/bart-tests-ads-fare-gates/",
       "start_date": "2026-06-04",
@@ -53,13 +60,6 @@
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-05-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Huge Free Outdoor &#8220;Pride Comedy Night&#8221; + Cocktail Party Returns to Thrive City for 2026",
-      "link": "https://sf.funcheap.com/city-guide/sfs-hosts-huge-free-outdoor-pride-comedy-night-festival-2/",
-      "start_date": "2026-05-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-06-05 03:37 UTC"
+  "updated_at": "2026-06-06 02:58 UTC"
 }
