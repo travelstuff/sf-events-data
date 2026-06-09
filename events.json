@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Downtown SF&#8217;s Free Outdoor EDM Party w/ French DJ Habstrakt (June 18)",
+      "link": "https://sf.funcheap.com/city-guide/downtown-sfs-free-outdoor-edm-concert-french-dj-habstrakt-june-18/",
+      "start_date": "2026-06-08",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Huge Free Outdoor &#8220;Pride Comedy Night&#8221; + Cocktail Party Returns to Thrive City for 2026",
       "link": "https://sf.funcheap.com/city-guide/sfs-hosts-huge-free-outdoor-pride-comedy-night-festival-2/",
       "start_date": "2026-06-05",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-04-07",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF’s Newest Night Market is Coming to Valencia Street (Summer 2025)",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-newest-night-market-coming-valencia-street/",
-      "start_date": "2025-04-05",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-08 03:53 UTC"
+  "updated_at": "2026-06-09 02:57 UTC"
 }
