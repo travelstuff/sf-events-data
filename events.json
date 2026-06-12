@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF’s Free Movies Under the Stars Return to Union Square",
+      "link": "https://sf.funcheap.com/city-guide/sfs-free-movies-stars-return-union-square/",
+      "start_date": "2026-06-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "World Cup 2026 Bay Area: Fan Zones &#038; 30+ Watch Parties (June 11 &#8211; July 19)",
       "link": "https://sf.funcheap.com/city-guide/world-cup-2026-bay-area-fan-zones-watch-parties-marches/",
       "start_date": "2026-06-09",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-04-08",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Fillmore Jazz Festival Back On for 2025 (After Sudden &#8220;Cancellation&#8221;)",
-      "link": "https://sf.funcheap.com/city-guide/fillmore-jazz-festival-returns-2025-briefly-cancellation/",
-      "start_date": "2025-04-07",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-11 03:51 UTC"
+  "updated_at": "2026-06-12 03:50 UTC"
 }
