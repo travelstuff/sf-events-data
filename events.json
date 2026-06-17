@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s Big Golden Gate Bridge Fireworks Show for USA&#8217;s 250th Anniv.",
+      "link": "https://sf.funcheap.com/city-guide/sfs-big-golden-gate-bridge-fireworks-show-usas-250th-anniv/",
+      "start_date": "2026-06-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Father&#8217;s Day Fun (2026)",
+      "link": "https://sf.funcheap.com/city-guide/fathers-day-fun/",
+      "start_date": "2026-06-15",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF’s Free Movies Under the Stars Return to Union Square",
       "link": "https://sf.funcheap.com/city-guide/sfs-free-movies-stars-return-union-square/",
       "start_date": "2026-06-11",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-04-09",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "&#8220;California Henge&#8221;: SF’s Natural Light Show (April 8-10, 2025)",
-      "link": "https://sf.funcheap.com/city-guide/california-henge-san-franciscos-natural-light-show-april-810-2025/",
-      "start_date": "2025-04-08",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Stern Grove Festival Drops Epic 2025 Lineup (Yes, It&#8217;s Still Free!)",
-      "link": "https://sf.funcheap.com/city-guide/stern-grove-festival-drops-epic-2025-lineup-free/",
-      "start_date": "2025-04-08",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-16 03:58 UTC"
+  "updated_at": "2026-06-17 03:59 UTC"
 }
