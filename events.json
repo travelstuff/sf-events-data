@@ -1,7 +1,21 @@
 {
   "events": [
     {
-      "title": "California Is Giving Away Free State Parks Pass Through July 6",
+      "title": "SF Is Getting a Giant Rainbow Laser Light Show",
+      "link": "https://sf.funcheap.com/city-guide/sf-giant-sky-laser-show-city/",
+      "start_date": "2026-06-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Unveils Final Design for New 5-Acre Embarcadero Waterfront Park",
+      "link": "https://sf.funcheap.com/city-guide/sf-unveils-final-design-5acre-embarcadero-waterfront-park/",
+      "start_date": "2026-06-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "California Is Giving Away Free State Parks Passes Through July 6",
       "link": "https://sf.funcheap.com/city-guide/california-giving-free-state-parks-pass-july-6/",
       "start_date": "2026-06-17",
       "venue": "San Francisco",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-04-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Off the Grid Is Back! Here’s Every 2025 Date for SF’s Iconic Friday Night Market",
-      "link": "https://sf.funcheap.com/city-guide/grid-heres-2025-date-sfs-iconic-friday-night-market/",
-      "start_date": "2025-04-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF’s New 2-Mile Oceanfront Park Officially Named &#8220;Sunset Dunes&#8221;",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-coastal-park-officially-named-sunset-dunes/",
-      "start_date": "2025-04-09",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-18 03:50 UTC"
+  "updated_at": "2026-06-19 04:09 UTC"
 }
