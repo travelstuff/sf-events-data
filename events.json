@@ -1,21 +1,35 @@
 {
   "events": [
     {
-      "title": "SF Is Getting a Giant Rainbow Laser Light Show",
+      "title": "Massive 72,600-Square-Foot Asian Grocery Store Opening in East Bay",
+      "link": "https://sf.funcheap.com/city-guide/massive-72600squarefoot-asian-grocery-store-opening-east-bay/",
+      "start_date": "2026-06-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Iconic Drag Nightclub Oasis Reopens July 17 After Major Makeover",
+      "link": "https://sf.funcheap.com/city-guide/sfs-iconic-drag-nightclub-oasis-reopens-july-17-major-makeover/",
+      "start_date": "2026-06-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Getting Giant Rainbow Laser Light Show w/ 49 Beams",
       "link": "https://sf.funcheap.com/city-guide/sf-giant-sky-laser-show-city/",
       "start_date": "2026-06-18",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "SF Unveils Final Design for New 5-Acre Embarcadero Waterfront Park",
+      "title": "This is SF&#8217;s New 5-Acre Embarcadero Waterfront Park",
       "link": "https://sf.funcheap.com/city-guide/sf-unveils-final-design-5acre-embarcadero-waterfront-park/",
       "start_date": "2026-06-18",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "California Is Giving Away Free State Parks Passes Through July 6",
+      "title": "California&#8217;s $50 State Parks Pass Is Now FREE (But Only Through July 6)",
       "link": "https://sf.funcheap.com/city-guide/california-giving-free-state-parks-pass-july-6/",
       "start_date": "2026-06-17",
       "venue": "San Francisco",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-04-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Zara&#8217;s New 4-Story Flagship Store Coming to Union Square",
-      "link": "https://sf.funcheap.com/city-guide/zara-opening-4story-flagship-store-union-square/",
-      "start_date": "2025-04-11",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Robotaxis Will Soon Cruise Down SF&#8217;s Market Street",
-      "link": "https://sf.funcheap.com/city-guide/robotaxis-cruise-sfs-market-street/",
-      "start_date": "2025-04-11",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-06-19 04:09 UTC"
+  "updated_at": "2026-06-20 03:32 UTC"
 }
