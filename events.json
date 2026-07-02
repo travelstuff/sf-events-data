@@ -1,9 +1,23 @@
 {
   "events": [
     {
+      "title": "San Francisco Bay Area 4th of July &#038; Fireworks Guide 2026",
+      "link": "https://sf.funcheap.com/city-guide/4th-july-fireworks-guide/",
+      "start_date": "2026-07-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-06-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco July Festivals &#038; Street Fairs (2026)",
       "link": "https://sf.funcheap.com/city-guide/july-street-fairs-festivals/",
-      "start_date": "2026-06-26",
+      "start_date": "2026-06-29",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -144,13 +158,6 @@
       "title": "100+ Things to Do Over Memorial Day Weekend 2026 (San Francisco + Bay Area)",
       "link": "https://sf.funcheap.com/city-guide/memorial-day-weekend-event-guide/",
       "start_date": "2026-05-23",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2026-05-20",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -438,13 +445,6 @@
       "title": "Oakland Throws Big Homecoming Rally for Olympic Gold Medalist Alysa Liu (March 12)",
       "link": "https://sf.funcheap.com/city-guide/oakland-throws-free-homecoming-rally-olympic-gold-medalist-alysa-liu-march-12/",
       "start_date": "2026-03-05",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco Bay Area 4th of July &#038; Fireworks Guide 2026",
-      "link": "https://sf.funcheap.com/city-guide/4th-july-fireworks-guide/",
-      "start_date": "2026-03-04",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-07-01 03:41 UTC"
+  "updated_at": "2026-07-02 03:26 UTC"
 }
