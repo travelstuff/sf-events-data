@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "World&#8217;s Largest Fast Food Chain Opens First Bay Area Shop",
+      "link": "https://sf.funcheap.com/city-guide/worlds-largest-fast-food-chain-opens-bay-area-shop/",
+      "start_date": "2026-07-13",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Bastille Day Party Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-celebrates-bastille-day/",
       "start_date": "2026-07-09",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-04-23",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Oakland Ballers Transform Rescued BART Car Into Snack Shack",
-      "link": "https://sf.funcheap.com/city-guide/retired-bart-car-oakland-ballers/",
-      "start_date": "2025-04-23",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-07-13 02:38 UTC"
+  "updated_at": "2026-07-14 02:22 UTC"
 }
