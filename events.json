@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "The Presidio Is Getting Its First Brewery Taproom",
+      "link": "https://sf.funcheap.com/city-guide/presidio-brewery-taproom/",
+      "start_date": "2026-07-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Historic “Castle” Restaurant Will Reopen After Nearly 20 Years",
+      "link": "https://sf.funcheap.com/city-guide/sfs-historic-castle-restaurant-reopen-20-years/",
+      "start_date": "2026-07-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "BART Says New Fare Gates Are Working. Here&#8217;s What&#8217;s Next.",
+      "link": "https://sf.funcheap.com/city-guide/bart-fare-gates-working/",
+      "start_date": "2026-07-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "World&#8217;s Largest Fast Food Chain Opens First Bay Area Shop",
       "link": "https://sf.funcheap.com/city-guide/worlds-largest-fast-food-chain-opens-bay-area-shop/",
       "start_date": "2026-07-13",
@@ -2078,28 +2099,7 @@
       "start_date": "2025-04-29",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Downtown Hoedown: New Country-Themed Monthly Block Party (May 1)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-downtown-hoedown-countrythemed-monthly-block-party-1/",
-      "start_date": "2025-04-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "New Pop-Ups Opening in SF’s Empty Union Square Storefronts",
-      "link": "https://sf.funcheap.com/city-guide/popups-opening-sfs-empty-union-square-storefronts/",
-      "start_date": "2025-04-23",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Massive New Artist Hub Coming to SF’s Vacant Waterfront Pier 29",
-      "link": "https://sf.funcheap.com/city-guide/massive-artist-hub-coming-sfs-vacant-waterfront-pier-29/",
-      "start_date": "2025-04-23",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-07-14 02:22 UTC"
+  "updated_at": "2026-07-15 02:20 UTC"
 }
