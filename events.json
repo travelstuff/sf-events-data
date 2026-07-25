@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "CA Swaps Welcome Signs for Giant Photo-Worthy Monuments",
+      "link": "https://sf.funcheap.com/city-guide/ca-swapswelcome-signs-giant-photoworthy-monuments/",
+      "start_date": "2026-07-24",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Hardly Strictly Bluegrass Unveils First of 2026 Lineup",
+      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
+      "start_date": "2026-07-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Long-Awaited Downtown Jollibee Finally Opens July 31",
       "link": "https://sf.funcheap.com/city-guide/sfs-longawaited-downtown-jollibee-finally-opens-july-31/",
       "start_date": "2026-07-22",
@@ -137,6 +151,13 @@
       "title": "SF Bay Area Father&#8217;s Day Fun (2026)",
       "link": "https://sf.funcheap.com/city-guide/fathers-day-fun/",
       "start_date": "2026-06-15",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "2026 Skywatchers Guide: Meteor Showers, Supermoons &#038; Total Lunar Eclipse",
+      "link": "https://sf.funcheap.com/city-guide/meteor-shower-guide-bay-area/",
+      "start_date": "2026-06-14",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1765,13 +1786,6 @@
       "is_free": true
     },
     {
-      "title": "Hardly Strictly Bluegrass Unveils First of 2025 Lineup",
-      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2025-07-23",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF Unveils New Dead-Inspired Psychedelic Buses",
       "link": "https://sf.funcheap.com/city-guide/sfs-deadinspired-psychedelic-buses/",
       "start_date": "2025-07-23",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-05-06",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Downtown SF&#8217;s Big Free Summer Concerts Are Back",
-      "link": "https://sf.funcheap.com/city-guide/downtown-sfs-big-free-summer-concerts/",
-      "start_date": "2025-05-05",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "10 Great East Bay Parks for Spring Wildflowers",
-      "link": "https://sf.funcheap.com/city-guide/10-great-east-bay-parks-spring-wildflowers/",
-      "start_date": "2025-05-01",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-07-24 02:31 UTC"
+  "updated_at": "2026-07-25 02:30 UTC"
 }
