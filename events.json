@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-07-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Historic 118-Year-Old Music Venue Hits the Market",
       "link": "https://sf.funcheap.com/city-guide/sfs-historic-118yearold-music-venue-hits-market/",
       "start_date": "2026-07-28",
@@ -88,13 +95,6 @@
       "title": "San Francisco Bay Area 4th of July &#038; Fireworks Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/4th-july-fireworks-guide/",
       "start_date": "2026-07-03",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2026-06-30",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-07-31 02:39 UTC"
+  "updated_at": "2026-08-01 02:37 UTC"
 }
