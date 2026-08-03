@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "Outside Lands Alternative Guide: 50 Things to Do Around the Bay Instead (Aug. 7-9)",
+      "link": "https://sf.funcheap.com/city-guide/50-lands-weekend-aug-79/",
+      "start_date": "2026-08-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Secret Marin Mountain Summit Is Finally Opening to the Public",
+      "link": "https://sf.funcheap.com/city-guide/secret-marin-mountain-summit-finally-opening-public/",
+      "start_date": "2026-08-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Iconic Tartine Bakery Is Coming to Downtown SF",
+      "link": "https://sf.funcheap.com/city-guide/iconic-tartine-bakery-coming-downtown-sf/",
+      "start_date": "2026-08-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-07-30",
@@ -2078,28 +2099,7 @@
       "start_date": "2025-05-18",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Grateful Dead’s 60th Anniversary: 3-Day Concert Coming to SF’s Golden Gate Park",
-      "link": "https://sf.funcheap.com/city-guide/grateful-deads-60th-anniversary-3day-concert-coming-sfs-golden-gate-park/",
-      "start_date": "2025-05-16",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s New Pro Soccer Team Brings $10M Upgrade to Kezar Stadium",
-      "link": "https://sf.funcheap.com/city-guide/pro-soccer-team-sf-kezar-stadium-10m-upgrade/",
-      "start_date": "2025-05-12",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Favorite Outdoor Movie Nights Ends After 20 Years",
-      "link": "https://sf.funcheap.com/city-guide/sfs-favorite-outdoor-movie-nights-ends-20-years/",
-      "start_date": "2025-05-06",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-02 02:36 UTC"
+  "updated_at": "2026-08-03 02:38 UTC"
 }
