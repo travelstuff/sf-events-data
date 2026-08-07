@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
+      "start_date": "2026-08-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Outside Lands Alternative Guide: 50 Things to Do Around the Bay Instead (Aug. 7-9)",
       "link": "https://sf.funcheap.com/city-guide/50-lands-weekend-aug-79/",
       "start_date": "2026-08-02",
@@ -1345,13 +1352,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2025 ($10 Off Tix)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2024/",
-      "start_date": "2025-10-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Giant 36-Ft KAWS Inflatable Sculpture Coming to SFMOMA Rooftop",
       "link": "https://sf.funcheap.com/city-guide/giant-36ft-kaws-inflatable-sculpture-coming-sfmoma-rooftop/",
       "start_date": "2025-10-21",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-06 02:25 UTC"
+  "updated_at": "2026-08-07 02:34 UTC"
 }
