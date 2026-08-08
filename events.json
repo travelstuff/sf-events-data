@@ -29,6 +29,13 @@
       "is_free": true
     },
     {
+      "title": "25+ Awesome Things to Do in SF Over Labor Day Weekend (2026)",
+      "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
+      "start_date": "2026-08-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-07-30",
@@ -1583,13 +1590,6 @@
       "is_free": true
     },
     {
-      "title": "50+ Awesome Things to Do in SF Over Labor Day Weekend (2025)",
-      "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
-      "start_date": "2025-09-01",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Two 16-Ton “Whales” Return to SF After 20+ Years in Storage",
       "link": "https://sf.funcheap.com/city-guide/16ton-whales-return-sf-20-years-storage/",
       "start_date": "2025-08-30",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-07 02:34 UTC"
+  "updated_at": "2026-08-08 01:24 UTC"
 }
