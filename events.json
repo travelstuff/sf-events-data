@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
-      "start_date": "2026-08-06",
+      "title": "Outside Lands Alternative Guide: 50 Things to Do Around the Bay Instead (Aug. 7-9)",
+      "link": "https://sf.funcheap.com/city-guide/50-lands-weekend-aug-79/",
+      "start_date": "2026-08-09",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "Outside Lands Alternative Guide: 50 Things to Do Around the Bay Instead (Aug. 7-9)",
-      "link": "https://sf.funcheap.com/city-guide/50-lands-weekend-aug-79/",
-      "start_date": "2026-08-02",
+      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
+      "start_date": "2026-08-06",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-09 01:36 UTC"
+  "updated_at": "2026-08-10 01:39 UTC"
 }
