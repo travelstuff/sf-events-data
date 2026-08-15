@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Hardly Strictly Bluegrass Unveils More 2026 Artists",
+      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
+      "start_date": "2026-08-13",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "$1.99 Burgers Coming to Hayward",
       "link": "https://sf.funcheap.com/city-guide/199-burgers-coming-hayward/",
       "start_date": "2026-08-12",
@@ -74,13 +81,6 @@
       "title": "San Francisco August Festivals &#038; Street Fairs",
       "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
       "start_date": "2026-07-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Hardly Strictly Bluegrass Unveils First of 2026 Lineup",
-      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2026-07-23",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-14 01:47 UTC"
+  "updated_at": "2026-08-15 01:06 UTC"
 }
