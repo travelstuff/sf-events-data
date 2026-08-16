@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco August Festivals &#038; Street Fairs",
+      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
+      "start_date": "2026-08-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Hardly Strictly Bluegrass Unveils More 2026 Artists",
       "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
       "start_date": "2026-08-13",
@@ -73,13 +80,6 @@
     {
       "title": "CA Swaps Welcome Signs for Giant Photo-Worthy Monuments",
       "link": "https://sf.funcheap.com/city-guide/ca-swapswelcome-signs-giant-photoworthy-monuments/",
-      "start_date": "2026-07-24",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco August Festivals &#038; Street Fairs",
-      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
       "start_date": "2026-07-24",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-15 01:06 UTC"
+  "updated_at": "2026-08-16 01:11 UTC"
 }
