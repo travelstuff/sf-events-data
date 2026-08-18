@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Oakland’s Home of Chicken &#038; Waffles Is Closing After More Than 20 Years",
+      "link": "https://sf.funcheap.com/city-guide/oaklands-home-chicken-waffles-closing/",
+      "start_date": "2026-08-17",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco August Festivals &#038; Street Fairs",
       "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
       "start_date": "2026-08-14",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-05-21",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "$50M Surf Park with Wave Pool Proposed for Alameda",
-      "link": "https://sf.funcheap.com/city-guide/50m-surf-park-wave-pool-proposed-alameda/",
-      "start_date": "2025-05-20",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-17 01:08 UTC"
+  "updated_at": "2026-08-18 01:06 UTC"
 }
