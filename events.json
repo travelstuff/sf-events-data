@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Stunning Bay Area Beach Once Owned by Chris Isaak Is Finally Public",
+      "link": "https://sf.funcheap.com/city-guide/stunning-bay-area-beach-owned-chris-isaak-finally-public/",
+      "start_date": "2026-08-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF’s Only Indoor Ice Rink Is Back After Major Upgrades",
+      "link": "https://sf.funcheap.com/city-guide/sfs-indoor-ice-rink-major-upgrades/",
+      "start_date": "2026-08-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Oakland’s Home of Chicken &#038; Waffles Is Closing After More Than 20 Years",
       "link": "https://sf.funcheap.com/city-guide/oaklands-home-chicken-waffles-closing/",
       "start_date": "2026-08-17",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-05-25",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Where to Go Swimming in the East Bay (2025)",
-      "link": "https://sf.funcheap.com/city-guide/swimming-memorial-day-weekend/",
-      "start_date": "2025-05-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF’s First Day of Fall 2025: Autumn Equinox Arrives Sept 22",
-      "link": "https://sf.funcheap.com/city-guide/sfs-day-fall-2025-autumn-equinox-arrives-sept-22/",
-      "start_date": "2025-05-21",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-18 01:06 UTC"
+  "updated_at": "2026-08-19 01:07 UTC"
 }
