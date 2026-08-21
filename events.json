@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s &#8220;Flower Piano&#8221; Festival is Back September 10-20",
+      "link": "https://sf.funcheap.com/city-guide/flower-piano-returns-sf-botanical-garden/",
+      "start_date": "2026-08-19",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Stunning Bay Area Beach Once Owned by Chris Isaak Is Finally Public",
       "link": "https://sf.funcheap.com/city-guide/stunning-bay-area-beach-owned-chris-isaak-finally-public/",
       "start_date": "2026-08-18",
@@ -1541,13 +1548,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s &#8220;Flower Piano&#8221; Festival is Back September 12-21",
-      "link": "https://sf.funcheap.com/city-guide/flower-piano-returns-sf-botanical-garden/",
-      "start_date": "2025-09-11",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Bay Area&#8217;s Best Pumpkin Patches for 2025",
       "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
       "start_date": "2025-09-11",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-20 01:06 UTC"
+  "updated_at": "2026-08-21 01:10 UTC"
 }
