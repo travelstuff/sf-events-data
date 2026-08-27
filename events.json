@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Train Is Taking Over Haight Street for a Free Concert &#038; Block Party (Aug. 27)",
+      "link": "https://sf.funcheap.com/city-guide/train-haight-street-free-concert-block-party-aug-27/",
+      "start_date": "2026-08-26",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Wants to Give 10 Acres of Lakefront a Huge Makeover",
+      "link": "https://sf.funcheap.com/city-guide/sf-give-10-acres-lakefront-huge-makeover/",
+      "start_date": "2026-08-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s &#8220;Flower Piano&#8221; Festival is Back September 10-20",
       "link": "https://sf.funcheap.com/city-guide/flower-piano-returns-sf-botanical-garden/",
       "start_date": "2026-08-19",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-05-28",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Where to See SF&#8217;s Wildflowers (Spring 2025)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-parks-wildflowers/",
-      "start_date": "2025-05-27",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "45-ft Statue of Giant Naked Woman Now Coming to SF&#8217;s Embarcadero",
-      "link": "https://sf.funcheap.com/city-guide/45ft-statue-giant-naked-woman-coming-sfs-embarcadero/",
-      "start_date": "2025-05-25",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-26 01:10 UTC"
+  "updated_at": "2026-08-27 07:21 UTC"
 }
