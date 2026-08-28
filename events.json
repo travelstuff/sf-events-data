@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s New &#8220;Sun&#8221; Light Installation Rises &#038; Sets with the Philippines",
+      "link": "https://sf.funcheap.com/city-guide/sfs-sun-light-installation-rises-sets-philippines/",
+      "start_date": "2026-08-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Pokémon Is Taking Over San Francisco With Four Drone Shows (Aug. 27-30)",
+      "link": "https://sf.funcheap.com/city-guide/pokmon-san-francisco-drone-shows-aug-2730/",
+      "start_date": "2026-08-27",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Just Turned a Historic 95-Ft Building Into a Giant Art Screen",
+      "link": "https://sf.funcheap.com/city-guide/sf-turned-historic-95ft-building-giant-art-screen/",
+      "start_date": "2026-08-27",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Train Is Taking Over Haight Street for a Free Concert &#038; Block Party (Aug. 27)",
       "link": "https://sf.funcheap.com/city-guide/train-haight-street-free-concert-block-party-aug-27/",
       "start_date": "2026-08-26",
@@ -10,6 +31,13 @@
     {
       "title": "SF Wants to Give 10 Acres of Lakefront a Huge Makeover",
       "link": "https://sf.funcheap.com/city-guide/sf-give-10-acres-lakefront-huge-makeover/",
+      "start_date": "2026-08-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco August Festivals &#038; Street Fairs",
+      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
       "start_date": "2026-08-25",
       "venue": "San Francisco",
       "is_free": true
@@ -39,13 +67,6 @@
       "title": "Oakland’s Home of Chicken &#038; Waffles Is Closing After More Than 20 Years",
       "link": "https://sf.funcheap.com/city-guide/oaklands-home-chicken-waffles-closing/",
       "start_date": "2026-08-17",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco August Festivals &#038; Street Fairs",
-      "link": "https://sf.funcheap.com/city-guide/august-street-fairs-festivals/",
-      "start_date": "2026-08-14",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2078,28 +2099,7 @@
       "start_date": "2025-06-11",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Three Tiny Las Vegas &#8220;Spheres&#8221; Coming to SF&#8217;s Pier 70 in 2026",
-      "link": "https://sf.funcheap.com/city-guide/tiny-las-vegas-spheres-coming-sfs-pier-70-2026/",
-      "start_date": "2025-06-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "6 Awesome Bay Area Swimming Holes (Summer 2025)",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-best-swimming-holes/",
-      "start_date": "2025-05-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "New Waterfront Park Coming to SF&#8217;s Dogpatch Neighborhood",
-      "link": "https://sf.funcheap.com/city-guide/waterfront-park-gardens-coming-sfs-dogpatch-neighborhood/",
-      "start_date": "2025-05-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-27 07:21 UTC"
+  "updated_at": "2026-08-28 09:36 UTC"
 }
