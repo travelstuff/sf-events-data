@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Sprouts Grocery Store Is Coming to SoMa by 2028",
+      "link": "https://sf.funcheap.com/city-guide/sprouts-grocery-store-coming-soma-2028/",
+      "start_date": "2026-08-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco September Festivals &#038; Street Fairs",
+      "link": "https://sf.funcheap.com/city-guide/september-street-fairs-festivals/",
+      "start_date": "2026-08-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s New &#8220;Sun&#8221; Light Installation Rises &#038; Sets with the Philippines",
       "link": "https://sf.funcheap.com/city-guide/sfs-sun-light-installation-rises-sets-philippines/",
       "start_date": "2026-08-28",
@@ -8,7 +22,14 @@
       "is_free": true
     },
     {
-      "title": "Pokémon Is Taking Over San Francisco With Four Drone Shows (Aug. 27-30)",
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-08-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Pokémon Takes Over San Francisco With Four Drone Shows (Aug. 27-30)",
       "link": "https://sf.funcheap.com/city-guide/pokmon-san-francisco-drone-shows-aug-2730/",
       "start_date": "2026-08-27",
       "venue": "San Francisco",
@@ -123,13 +144,6 @@
       "title": "25+ Awesome Things to Do in SF Over Labor Day Weekend (2026)",
       "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
       "start_date": "2026-08-02",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2026-07-30",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1653,13 +1667,6 @@
       "is_free": true
     },
     {
-      "title": "San Francisco September Festivals &#038; Street Fairs",
-      "link": "https://sf.funcheap.com/city-guide/september-street-fairs-festivals/",
-      "start_date": "2025-09-01",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Two 16-Ton “Whales” Return to SF After 20+ Years in Storage",
       "link": "https://sf.funcheap.com/city-guide/16ton-whales-return-sf-20-years-storage/",
       "start_date": "2025-08-30",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-06-13",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s First Women&#8217;s Sports Bar, &#8220;Rikki&#8217;s,&#8221; Opens in The Castro (June 11th)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-womens-sports-bar-rikkis-opens-castro-june-11th/",
-      "start_date": "2025-06-11",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-08-28 09:36 UTC"
+  "updated_at": "2026-08-29 05:41 UTC"
 }
