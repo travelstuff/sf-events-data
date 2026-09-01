@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "25+ Awesome Things to Do in SF Over Labor Day Weekend (2026)",
+      "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
+      "start_date": "2026-08-31",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Sprouts Grocery Store Is Coming to SoMa by 2028",
       "link": "https://sf.funcheap.com/city-guide/sprouts-grocery-store-coming-soma-2028/",
       "start_date": "2026-08-28",
@@ -136,13 +143,6 @@
     {
       "title": "Iconic Tartine Bakery Is Coming to Downtown SF",
       "link": "https://sf.funcheap.com/city-guide/iconic-tartine-bakery-coming-downtown-sf/",
-      "start_date": "2026-08-02",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "25+ Awesome Things to Do in SF Over Labor Day Weekend (2026)",
-      "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
       "start_date": "2026-08-02",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-08-31 03:43 UTC"
+  "updated_at": "2026-09-01 03:38 UTC"
 }
