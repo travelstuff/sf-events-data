@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Hardly Strictly Bluegrass Unveils More 2026 Artists",
+      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
+      "start_date": "2026-09-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "50+ Awesome Things to Do in SF Over Labor Day Weekend (2026)",
       "link": "https://sf.funcheap.com/city-guide/25-awesome-sf-labor-day-weekend/",
       "start_date": "2026-08-31",
@@ -8,7 +15,7 @@
       "is_free": true
     },
     {
-      "title": "Sprouts Grocery Store Is Coming to SoMa by 2028",
+      "title": "Sprouts Grocery Store Coming to SoMa by 2028",
       "link": "https://sf.funcheap.com/city-guide/sprouts-grocery-store-coming-soma-2028/",
       "start_date": "2026-08-28",
       "venue": "San Francisco",
@@ -95,13 +102,6 @@
       "title": "Oakland’s Home of Chicken &#038; Waffles Is Closing After More Than 20 Years",
       "link": "https://sf.funcheap.com/city-guide/oaklands-home-chicken-waffles-closing/",
       "start_date": "2026-08-17",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Hardly Strictly Bluegrass Unveils More 2026 Artists",
-      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2026-08-13",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-09-04 02:58 UTC"
+  "updated_at": "2026-09-05 03:00 UTC"
 }
