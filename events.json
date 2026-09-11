@@ -78,6 +78,13 @@
       "is_free": true
     },
     {
+      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
+      "start_date": "2026-08-26",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF Wants to Give 10 Acres of Lakefront a Huge Makeover",
       "link": "https://sf.funcheap.com/city-guide/sf-give-10-acres-lakefront-huge-makeover/",
       "start_date": "2026-08-25",
@@ -130,13 +137,6 @@
       "title": "Outside Lands Alternative Guide: 50 Things to Do Around the Bay Instead (Aug. 7-9)",
       "link": "https://sf.funcheap.com/city-guide/50-lands-weekend-aug-79/",
       "start_date": "2026-08-09",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
-      "start_date": "2026-08-06",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1646,7 +1646,7 @@
       "is_free": true
     },
     {
-      "title": "Where to Go Apple Picking: Bay Area + Northern California Guide (2025)",
+      "title": "Where to Go Apple Picking: Bay Area + Northern California Guide (2026)",
       "link": "https://sf.funcheap.com/city-guide/apple-picking-bay-area/",
       "start_date": "2025-09-04",
       "venue": "San Francisco",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-09-10 03:09 UTC"
+  "updated_at": "2026-09-11 03:04 UTC"
 }
