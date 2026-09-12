@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Where to Go Apple Picking: Bay Area + Northern California Guide (2026)",
+      "link": "https://sf.funcheap.com/city-guide/apple-picking-bay-area/",
+      "start_date": "2026-09-11",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s &#8220;Flower Piano&#8221; Festival is Back September 10-20",
       "link": "https://sf.funcheap.com/city-guide/flower-piano-returns-sf-botanical-garden/",
       "start_date": "2026-09-09",
@@ -1646,13 +1653,6 @@
       "is_free": true
     },
     {
-      "title": "Where to Go Apple Picking: Bay Area + Northern California Guide (2026)",
-      "link": "https://sf.funcheap.com/city-guide/apple-picking-bay-area/",
-      "start_date": "2025-09-04",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Check Out SF’s Wild New &#8220;Banana&#8221; Bench at Union Square",
       "link": "https://sf.funcheap.com/city-guide/check-sfs-wild-banana-bench-union-square/",
       "start_date": "2025-09-03",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-09-11 03:04 UTC"
+  "updated_at": "2026-09-12 03:10 UTC"
 }
