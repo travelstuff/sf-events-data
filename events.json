@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Grace Cathedral&#8217;s Free Laser Light Show Is Back (Sept. 21-25)",
+      "link": "https://sf.funcheap.com/city-guide/grace-cathedrals-free-laser-light-show/",
+      "start_date": "2026-09-16",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Where to Go Apple Picking: Bay Area + Northern California Guide (2026)",
       "link": "https://sf.funcheap.com/city-guide/apple-picking-bay-area/",
       "start_date": "2026-09-11",
@@ -1772,7 +1779,7 @@
       "is_free": true
     },
     {
-      "title": "Fall Colors of the Bay: Where to See the Leaves Change | 2025",
+      "title": "Fall Colors of the Bay: Where to See the Leaves Change | 2026",
       "link": "https://sf.funcheap.com/city-guide/fall-colors-bay/",
       "start_date": "2025-08-11",
       "venue": "San Francisco",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-06-16",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "&#8220;No Kings Day&#8221; in the Bay Area: 40+ Anti-Trump Protests (June 14)",
-      "link": "https://sf.funcheap.com/city-guide/kings-day-bay-area-30-antitrump-protests-june-14/",
-      "start_date": "2025-06-13",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-09-16 03:23 UTC"
+  "updated_at": "2026-09-17 03:29 UTC"
 }
