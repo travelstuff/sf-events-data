@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "Downtown SF Is Getting a New Pro Women&#8217;s Sports Team in 2027",
+      "link": "https://sf.funcheap.com/city-guide/downtown-sf-professional-sports-team/",
+      "start_date": "2026-09-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, FAQ (Oct. 2-4)",
+      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
+      "start_date": "2026-09-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Mexican Navy 297-Foot &#8220;Tall Ship&#8221; Visits SF &#038; Sails Under Golden Gate Bridge",
+      "link": "https://sf.funcheap.com/city-guide/mexican-navy-297foot-tall-ship-visits-sf-sails-golden-gate-bridge/",
+      "start_date": "2026-09-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Massive 200-Foot “Grass Painting” Coming to SF’s Yerba Buena Gardens",
       "link": "https://sf.funcheap.com/city-guide/massive-200foot-grass-painting-coming-sfs-yerba-buena-gardens/",
       "start_date": "2026-09-21",
@@ -32,13 +53,6 @@
       "title": "San Francisco October Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
       "start_date": "2026-09-09",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "2026 Hardly Strictly Bluegrass Daily Lineup Announced (Oct. 2-4)",
-      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2026-09-08",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2085,21 +2099,7 @@
       "start_date": "2025-06-18",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Huge New All-You-Can-Eat Buffet Has Waterfront Views",
-      "link": "https://sf.funcheap.com/city-guide/sfs-brand-stirfry-buffet-waterfront-views/",
-      "start_date": "2025-06-18",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s Iconic Rock ’n’ Roll Hotel Closing After Nearly 40 Years",
-      "link": "https://sf.funcheap.com/city-guide/sfs-iconic-rock-roll-hotel-closing-40-years/",
-      "start_date": "2025-06-17",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-09-22 03:22 UTC"
+  "updated_at": "2026-09-23 03:23 UTC"
 }
