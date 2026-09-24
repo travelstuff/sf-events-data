@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Iconic Haight &#038; Ashbury Corner Could Get a New Music Hub From KEXP",
+      "link": "https://sf.funcheap.com/city-guide/iconic-haight-ashbury-corner-music-hub-kexp/",
+      "start_date": "2026-09-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Rooftop Stargazing Nights w/ Huge Telescopes in San Francisco (Fall 2026)",
+      "link": "https://sf.funcheap.com/city-guide/free-rooftop-stargazing-nights-huge-telescopes-san-francisco-fall-2026/",
+      "start_date": "2026-09-23",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Downtown SF Is Getting a New Pro Women&#8217;s Sports Team in 2027",
       "link": "https://sf.funcheap.com/city-guide/downtown-sf-professional-sports-team/",
       "start_date": "2026-09-22",
@@ -2085,21 +2099,7 @@
       "start_date": "2025-06-20",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "New Movie Theater Coming Back to SF&#8217;s 1000 Van Ness",
-      "link": "https://sf.funcheap.com/city-guide/movie-theater-coming-sfs-1000-van-ness/",
-      "start_date": "2025-06-18",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Golden Gate Park Unveils Nation’s First Breast Cancer Memorial Garden",
-      "link": "https://sf.funcheap.com/city-guide/golden-gate-park-unveils-nations-breast-cancer-memorial-garden/",
-      "start_date": "2025-06-18",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-09-23 03:23 UTC"
+  "updated_at": "2026-09-24 03:12 UTC"
 }
