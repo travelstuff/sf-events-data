@@ -1583,6 +1583,13 @@
       "is_free": true
     },
     {
+      "title": "Fall Colors of the Bay: Where to See the Leaves Change | 2026",
+      "link": "https://sf.funcheap.com/city-guide/fall-colors-bay/",
+      "start_date": "2025-09-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "CA’s 3rd-Largest Farmers Market to Launch Big 2027 Upgrade",
       "link": "https://sf.funcheap.com/city-guide/huge-marin-farmers-market-expands-permanent-37acre-site/",
       "start_date": "2025-09-24",
@@ -1809,13 +1816,6 @@
     {
       "title": "SF&#8217;s Rainbow Grocery Turns 50 with Huge Block Party (Aug. 17)",
       "link": "https://sf.funcheap.com/city-guide/sfs-rainbow-grocery-turns-50th-huge-block-party/",
-      "start_date": "2025-08-11",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Fall Colors of the Bay: Where to See the Leaves Change | 2026",
-      "link": "https://sf.funcheap.com/city-guide/fall-colors-bay/",
       "start_date": "2025-08-11",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-09-26 03:35 UTC"
+  "updated_at": "2026-09-27 03:44 UTC"
 }
