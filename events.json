@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
+      "start_date": "2026-09-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-09-30",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s &#8220;Terror Vault&#8221; 1874 Halloween Haunt is Back for 2026 ($10 Off Tix)",
       "link": "https://sf.funcheap.com/city-guide/sfs-terror-vault-1874-haunted-house-2026/",
       "start_date": "2026-09-26",
@@ -108,13 +122,6 @@
     {
       "title": "SF&#8217;s New &#8220;Sun&#8221; Light Installation Rises &#038; Sets with the Philippines",
       "link": "https://sf.funcheap.com/city-guide/sfs-sun-light-installation-rises-sets-philippines/",
-      "start_date": "2026-08-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-08-28",
       "venue": "San Francisco",
       "is_free": true
@@ -1534,13 +1541,6 @@
       "is_free": true
     },
     {
-      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2025 Air Show + Full Schedule (Oct. 10-12)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
-      "start_date": "2025-10-12",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Sunrise Ceremony at Alcatraz for Indigenous Peoples&#8217; Day (2025)",
       "link": "https://sf.funcheap.com/city-guide/sunrise-ceremony-alcatraz-indigenous-peoples-day-2025/",
       "start_date": "2025-10-12",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-09-30 04:02 UTC"
+  "updated_at": "2026-10-01 04:14 UTC"
 }
