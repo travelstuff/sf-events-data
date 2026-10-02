@@ -1,6 +1,27 @@
 {
   "events": [
     {
+      "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, What to Bring (Oct. 2-4)",
+      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
+      "start_date": "2026-10-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "45-Foot-Tall Naked Sculpture Leaving SF After 18 Months",
+      "link": "https://sf.funcheap.com/city-guide/45foottall-naked-sculpture-leaving-sf-18-months/",
+      "start_date": "2026-10-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF&#8217;s &#8220;ZooLights&#8221; w/ Frozen Forest Back for First Time in 8 Years",
+      "link": "https://sf.funcheap.com/city-guide/sfs-zoolights-frozen-forest-time-8-years/",
+      "start_date": "2026-10-01",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
       "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
       "start_date": "2026-09-30",
@@ -45,13 +66,6 @@
     {
       "title": "Downtown SF Is Getting a New Pro Women&#8217;s Sports Team in 2027",
       "link": "https://sf.funcheap.com/city-guide/downtown-sf-professional-sports-team/",
-      "start_date": "2026-09-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, FAQ (Oct. 2-4)",
-      "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
       "start_date": "2026-09-22",
       "venue": "San Francisco",
       "is_free": true
@@ -2085,21 +2099,7 @@
       "start_date": "2025-06-24",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "San Francisco&#8217;s Summer Festivals &#038; Street Fairs (2025)",
-      "link": "https://sf.funcheap.com/city-guide/san-franciscos-summer-festivals-street-fairs/",
-      "start_date": "2025-06-23",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Massive 4.1 Mile Laser Rainbow Flag Returns to SF for Pride 2025",
-      "link": "https://sf.funcheap.com/city-guide/41-mile-laser-rainbow-flag-returns-sf/",
-      "start_date": "2025-06-20",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-10-01 04:14 UTC"
+  "updated_at": "2026-10-02 04:07 UTC"
 }
