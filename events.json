@@ -3,7 +3,14 @@
     {
       "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, What to Bring (Oct. 2-4)",
       "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2026-10-01",
+      "start_date": "2026-10-02",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "SF Opera Hosts Rare Costume Sale &#8220;Treasure Hunt&#8221; for Halloween",
+      "link": "https://sf.funcheap.com/city-guide/sf-opera-hosts-rare-costume-sale-treasure-hunt-halloween/",
+      "start_date": "2026-10-02",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2092,14 +2099,7 @@
       "start_date": "2025-06-25",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Chase Center Hosts Huge Free Outdoor Pride Comedy Show",
-      "link": "https://sf.funcheap.com/city-guide/chase-center-hosts-huge-free-outdoor-pride-comedy-show/",
-      "start_date": "2025-06-24",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-10-02 04:07 UTC"
+  "updated_at": "2026-10-03 03:50 UTC"
 }
