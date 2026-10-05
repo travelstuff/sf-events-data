@@ -3,7 +3,14 @@
     {
       "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, What to Bring (Oct. 2-4)",
       "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
-      "start_date": "2026-10-02",
+      "start_date": "2026-10-04",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Uniqlo Returns to Downtown SF After 5 Years",
+      "link": "https://sf.funcheap.com/city-guide/uniqlo-returns-downtown-sf-5-years/",
+      "start_date": "2026-10-04",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2092,14 +2099,7 @@
       "start_date": "2025-06-26",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "Oakland&#8217;s Historic Loard’s Ice Cream Reopens After 4 Year Closure",
-      "link": "https://sf.funcheap.com/city-guide/oaklands-historic-loards-ice-cream-reopens-4-year-closure/",
-      "start_date": "2025-06-25",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-10-04 04:22 UTC"
+  "updated_at": "2026-10-05 04:07 UTC"
 }
