@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
+      "start_date": "2026-10-05",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
+      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
+      "start_date": "2026-10-05",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "2026 Hardly Strictly Bluegrass in Golden Gate Park: Full Schedule, Maps, What to Bring (Oct. 2-4)",
       "link": "https://sf.funcheap.com/city-guide/strictly-bluegrass-unveils-lineup/",
       "start_date": "2026-10-04",
@@ -32,20 +46,6 @@
       "title": "SF&#8217;s &#8220;ZooLights&#8221; w/ Frozen Forest Back for First Time in 8 Years",
       "link": "https://sf.funcheap.com/city-guide/sfs-zoolights-frozen-forest-time-8-years/",
       "start_date": "2026-10-01",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
-      "start_date": "2026-09-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Free Museum Days in San Francisco + Bay Area (2026)",
-      "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
-      "start_date": "2026-09-30",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-05 04:07 UTC"
+  "updated_at": "2026-10-06 04:56 UTC"
 }
