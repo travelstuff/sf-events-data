@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Bay Area&#8217;s Best Pumpkin Patches for 2026",
+      "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
+      "start_date": "2026-10-07",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
       "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
       "start_date": "2026-10-05",
@@ -95,6 +102,20 @@
       "title": "Massive 200-Foot “Grass Painting” Coming to SF’s Yerba Buena Gardens",
       "link": "https://sf.funcheap.com/city-guide/massive-200foot-grass-painting-coming-sfs-yerba-buena-gardens/",
       "start_date": "2026-09-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "13 Awesome Bay Area Haunted Houses for 2026",
+      "link": "https://sf.funcheap.com/city-guide/bay-area-haunted-houses/",
+      "start_date": "2026-09-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "10 Best Corn Mazes in the Bay Area for 2026",
+      "link": "https://sf.funcheap.com/city-guide/craziest-corn-mazes-bay/",
+      "start_date": "2026-09-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1548,20 +1569,6 @@
       "is_free": true
     },
     {
-      "title": "13 Awesome Bay Area Haunted Houses for 2025",
-      "link": "https://sf.funcheap.com/city-guide/bay-area-haunted-houses/",
-      "start_date": "2025-10-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "10 Best Corn Mazes in the Bay Area for 2025",
-      "link": "https://sf.funcheap.com/city-guide/craziest-corn-mazes-bay/",
-      "start_date": "2025-10-19",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "&#8220;No Kings Day&#8221; Bay Area: 40+ Anti-Trump Protests (October 18)",
       "link": "https://sf.funcheap.com/city-guide/kings-day-bay-area-october-2025/",
       "start_date": "2025-10-16",
@@ -1677,13 +1684,6 @@
       "title": "Driverless Waymo Rides Coming to SFO",
       "link": "https://sf.funcheap.com/city-guide/sfo-driverless-waymo-rides/",
       "start_date": "2025-09-16",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "Bay Area&#8217;s Best Pumpkin Patches for 2025",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
-      "start_date": "2025-09-11",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-08 04:34 UTC"
+  "updated_at": "2026-10-09 04:37 UTC"
 }
