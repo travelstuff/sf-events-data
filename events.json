@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "title": "Bay Area&#8217;s Best Pumpkin Patches for 2026",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
-      "start_date": "2026-10-07",
+      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
+      "start_date": "2026-10-09",
       "venue": "San Francisco",
       "is_free": true
     },
     {
-      "title": "SF&#8217;s &#8220;Fleet Week&#8221; 2026 Air Show + Full Schedule (Oct. 4-12)",
-      "link": "https://sf.funcheap.com/city-guide/sfs-fleet-week-festival-guide/",
-      "start_date": "2026-10-05",
+      "title": "Bay Area&#8217;s Best Pumpkin Patches for 2026",
+      "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
+      "start_date": "2026-10-07",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-09 04:37 UTC"
+  "updated_at": "2026-10-10 04:23 UTC"
 }
