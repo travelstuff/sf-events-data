@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "10 Best Corn Mazes in the Bay Area for 2026",
+      "link": "https://sf.funcheap.com/city-guide/craziest-corn-mazes-bay/",
+      "start_date": "2026-10-14",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco October Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
       "start_date": "2026-10-12",
@@ -116,13 +123,6 @@
       "title": "13 Awesome Bay Area Haunted Houses for 2026",
       "link": "https://sf.funcheap.com/city-guide/bay-area-haunted-houses/",
       "start_date": "2026-09-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "10 Best Corn Mazes in the Bay Area for 2026",
-      "link": "https://sf.funcheap.com/city-guide/craziest-corn-mazes-bay/",
-      "start_date": "2026-09-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-15 03:15 UTC"
+  "updated_at": "2026-10-16 03:11 UTC"
 }
