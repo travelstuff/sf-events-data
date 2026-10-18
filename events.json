@@ -1,7 +1,14 @@
 {
   "events": [
     {
-      "title": "$1.50 Admission for Ripley’s Believe It or Not!&#8217;s Final Day in SF (Dec. 1)",
+      "title": "SF&#8217;s One-Night Market Street Arts &#038; Theater Festival: 50+ Experiences (Oct. 17)",
+      "link": "https://sf.funcheap.com/city-guide/sfs-onenight-market-street-arts-theater-festival-50-experiences-oct-17/",
+      "start_date": "2026-10-17",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "$1.50 Admission for SF&#8217;s Ripley’s Believe It or Not!&#8217;s Final Day (Dec. 1)",
       "link": "https://sf.funcheap.com/city-guide/150-admission-ripleys-nots-final-day-sf-dec-1/",
       "start_date": "2026-10-16",
       "venue": "San Francisco",
@@ -2092,14 +2099,7 @@
       "start_date": "2025-07-03",
       "venue": "San Francisco",
       "is_free": true
-    },
-    {
-      "title": "New National Monument Near Santa Cruz w/ Ocean View Trails",
-      "link": "https://sf.funcheap.com/city-guide/national-monument-santa-cruz-ocean-view-trails/",
-      "start_date": "2025-06-28",
-      "venue": "San Francisco",
-      "is_free": true
     }
   ],
-  "updated_at": "2026-10-17 03:02 UTC"
+  "updated_at": "2026-10-18 03:04 UTC"
 }
