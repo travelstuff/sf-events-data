@@ -8,6 +8,13 @@
       "is_free": true
     },
     {
+      "title": "Bay Area&#8217;s Halloween Party Guide 2026",
+      "link": "https://sf.funcheap.com/city-guide/bay-areas-halloween-party-guide/",
+      "start_date": "2026-10-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s One-Night Market Street Arts &#038; Theater Festival: 50+ Experiences (Oct. 17)",
       "link": "https://sf.funcheap.com/city-guide/sfs-onenight-market-street-arts-theater-festival-50-experiences-oct-17/",
       "start_date": "2026-10-17",
@@ -1513,13 +1520,6 @@
       "is_free": true
     },
     {
-      "title": "Bay Area&#8217;s Halloween Party Guide 2025",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-halloween-party-guide/",
-      "start_date": "2025-10-29",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "2025 Dia de los Muertos Celebrations",
       "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
       "start_date": "2025-10-28",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-21 03:22 UTC"
+  "updated_at": "2026-10-22 03:20 UTC"
 }
