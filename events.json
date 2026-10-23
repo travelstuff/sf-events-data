@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Bay Area Fall Guide 2026: Pumpkin Patches, Fall Colors &#038; Corn Mazes",
+      "link": "https://sf.funcheap.com/city-guide/bay-area-fall-guide/",
+      "start_date": "2026-10-21",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Bay Area&#8217;s Best Pumpkin Patches for 2026",
       "link": "https://sf.funcheap.com/city-guide/bay-areas-pumpkin-patches-2/",
       "start_date": "2026-10-20",
@@ -11,6 +18,13 @@
       "title": "Bay Area&#8217;s Halloween Party Guide 2026",
       "link": "https://sf.funcheap.com/city-guide/bay-areas-halloween-party-guide/",
       "start_date": "2026-10-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
+      "start_date": "2026-10-19",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -39,13 +53,6 @@
       "title": "10 Best Corn Mazes in the Bay Area for 2026",
       "link": "https://sf.funcheap.com/city-guide/craziest-corn-mazes-bay/",
       "start_date": "2026-10-14",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
-      "start_date": "2026-10-12",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -1597,13 +1604,6 @@
       "is_free": true
     },
     {
-      "title": "Bay Area Fall Guide 2025: Pumpkin Patches, Fall Colors &#038; Corn Mazes",
-      "link": "https://sf.funcheap.com/city-guide/bay-area-fall-guide/",
-      "start_date": "2025-10-10",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "The &#8220;SF Street Food Festival&#8221; is Back After 5-Year Break (Nov. 8-9)",
       "link": "https://sf.funcheap.com/city-guide/sf-street-food-festival-5year-break-nov-89/",
       "start_date": "2025-10-09",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-22 03:20 UTC"
+  "updated_at": "2026-10-23 03:25 UTC"
 }
