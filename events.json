@@ -1,8 +1,22 @@
 {
   "events": [
     {
+      "title": "San Francisco November Festivals &#038; Street Fairs (2026)",
+      "link": "https://sf.funcheap.com/city-guide/november-street-fairs-festivals/",
+      "start_date": "2026-10-29",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "SF&#8217;s Holiday Ice Skating Rink at Union Square is Back (2026-27)",
       "link": "https://sf.funcheap.com/city-guide/san-francisco-holiday-ice-skating-rink-union-square/",
+      "start_date": "2026-10-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "2026 Dia de los Muertos Celebrations",
+      "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
       "start_date": "2026-10-28",
       "venue": "San Francisco",
       "is_free": true
@@ -213,13 +227,6 @@
     {
       "title": "SF&#8217;s New &#8220;Sun&#8221; Light Installation Rises &#038; Sets with the Philippines",
       "link": "https://sf.funcheap.com/city-guide/sfs-sun-light-installation-rises-sets-philippines/",
-      "start_date": "2026-08-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco November Festivals &#038; Street Fairs (2026)",
-      "link": "https://sf.funcheap.com/city-guide/november-street-fairs-festivals/",
       "start_date": "2026-08-28",
       "venue": "San Francisco",
       "is_free": true
@@ -1541,13 +1548,6 @@
       "is_free": true
     },
     {
-      "title": "2025 Dia de los Muertos Celebrations",
-      "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
-      "start_date": "2025-10-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "San Francisco&#8217;s Fall Festivals &#038; Street Fairs (2025)",
       "link": "https://sf.funcheap.com/city-guide/san-franciscos-fall-festivals-street-fairs/",
       "start_date": "2025-10-28",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-10-29 04:26 UTC"
+  "updated_at": "2026-10-30 04:26 UTC"
 }
