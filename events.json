@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "title": "Bay Area&#8217;s Halloween Party Guide 2026",
-      "link": "https://sf.funcheap.com/city-guide/bay-areas-halloween-party-guide/",
-      "start_date": "2026-10-30",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-10-30",
@@ -36,7 +29,7 @@
       "is_free": true
     },
     {
-      "title": "2026 Dia de los Muertos Celebrations",
+      "title": "2026 Dia de los Muertos Celebrations, Fairs &#038; Festival (San Francisco Bay Area)",
       "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
       "start_date": "2026-10-28",
       "venue": "San Francisco",
@@ -71,7 +64,14 @@
       "is_free": true
     },
     {
-      "title": "San Francisco October Festivals &#038; Street Fairs 2026",
+      "title": "Bay Area&#8217;s Halloween Party Guide 2027",
+      "link": "https://sf.funcheap.com/city-guide/bay-areas-halloween-party-guide/",
+      "start_date": "2026-10-20",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "San Francisco October Festivals &#038; Street Fairs 2027",
       "link": "https://sf.funcheap.com/city-guide/october-street-fairs-festivals/",
       "start_date": "2026-10-19",
       "venue": "San Francisco",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-03 05:24 UTC"
+  "updated_at": "2026-11-04 04:53 UTC"
 }
