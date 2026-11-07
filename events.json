@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "San Francisco December Festivals &#038; Street Fairs 2026",
+      "link": "https://sf.funcheap.com/city-guide/december-street-fairs-festivals/",
+      "start_date": "2026-11-06",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Free Museum Days in San Francisco + Bay Area (2026)",
       "link": "https://sf.funcheap.com/city-guide/monthly-free-museum-days/",
       "start_date": "2026-10-30",
@@ -326,13 +333,6 @@
       "title": "Iconic Tartine Bakery Is Coming to Downtown SF",
       "link": "https://sf.funcheap.com/city-guide/iconic-tartine-bakery-coming-downtown-sf/",
       "start_date": "2026-08-02",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
-      "title": "San Francisco December Festivals &#038; Street Fairs 2026",
-      "link": "https://sf.funcheap.com/city-guide/december-street-fairs-festivals/",
-      "start_date": "2026-08-01",
       "venue": "San Francisco",
       "is_free": true
     },
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-05 05:10 UTC"
+  "updated_at": "2026-11-07 05:15 UTC"
 }
