@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "Free Parking in Golden Gate Park Ending January 1, 2027",
+      "link": "https://sf.funcheap.com/city-guide/free-parking-golden-gate-park/",
+      "start_date": "2026-11-09",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "How to Get the NY Times for Free (Updated for 2026/2027)",
+      "link": "https://sf.funcheap.com/city-guide/ny-times-free/",
+      "start_date": "2026-11-08",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "San Francisco December Festivals &#038; Street Fairs 2026",
       "link": "https://sf.funcheap.com/city-guide/december-street-fairs-festivals/",
       "start_date": "2026-11-06",
@@ -1226,13 +1240,6 @@
       "is_free": true
     },
     {
-      "title": "How to Get the NY Times for Free (Updated for 2026)",
-      "link": "https://sf.funcheap.com/city-guide/ny-times-free/",
-      "start_date": "2025-12-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "East Bay’s New 40,000 Sq. Ft. Japanese Supermarket Opens Jan. 31, 2026",
       "link": "https://sf.funcheap.com/city-guide/east-bays-40000-sq-ft-japanese-supermarket-opens-jan-31-2026/",
       "start_date": "2025-12-19",
@@ -2010,13 +2017,6 @@
       "is_free": true
     },
     {
-      "title": "Free Parking in Golden Gate Park is Ending",
-      "link": "https://sf.funcheap.com/city-guide/free-parking-golden-gate-park/",
-      "start_date": "2025-07-22",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF’s Iconic Drag Nightclub Oasis Closing At End of the Year",
       "link": "https://sf.funcheap.com/city-guide/sfs-iconic-drag-nightclub-oasis-closing-year/",
       "start_date": "2025-07-21",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-07 05:15 UTC"
+  "updated_at": "2026-11-10 05:40 UTC"
 }
