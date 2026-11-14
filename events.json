@@ -50,13 +50,6 @@
       "is_free": true
     },
     {
-      "title": "2026 Dia de los Muertos Celebrations, Fairs &#038; Festival (San Francisco Bay Area)",
-      "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
-      "start_date": "2026-10-28",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "All 37 San Francisco Official Ballot Drop-Off Stations",
       "link": "https://sf.funcheap.com/city-guide/12-official-san-francisco-ballot-dropoff-stations/",
       "start_date": "2026-10-27",
@@ -248,6 +241,13 @@
     {
       "title": "Sprouts Grocery Store Coming to SoMa by 2028",
       "link": "https://sf.funcheap.com/city-guide/sprouts-grocery-store-coming-soma-2028/",
+      "start_date": "2026-08-28",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "2027 Dia de los Muertos Celebrations, Fairs &#038; Festival (San Francisco Bay Area)",
+      "link": "https://sf.funcheap.com/city-guide/dia-de-los-muertos/",
       "start_date": "2026-08-28",
       "venue": "San Francisco",
       "is_free": true
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-13 04:41 UTC"
+  "updated_at": "2026-11-14 04:37 UTC"
 }
