@@ -1,7 +1,14 @@
 {
   "events": [
     {
-      "title": "Ice Skating Rinks in San Francisco &#038; Bay Area (Winter 2026-27)",
+      "title": "Bay Area&#8217;s &#8220;Cut Your Own&#8221; Christmas Tree Farms 2026",
+      "link": "https://sf.funcheap.com/city-guide/sf-bay-area-christmas-tree-farms-cut-your-own/",
+      "start_date": "2026-11-15",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
+      "title": "Holiday Ice Skating Rinks in San Francisco &#038; Bay Area (Winter 2026-27)",
       "link": "https://sf.funcheap.com/city-guide/ice-skate-bay-area/",
       "start_date": "2026-11-13",
       "venue": "San Francisco",
@@ -1933,13 +1940,6 @@
       "is_free": true
     },
     {
-      "title": "Bay Area&#8217;s &#8220;Cut Your Own&#8221; Christmas Tree Farms 2025",
-      "link": "https://sf.funcheap.com/city-guide/sf-bay-area-christmas-tree-farms-cut-your-own/",
-      "start_date": "2025-08-01",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Alamo Square &#8220;Painted Lady&#8221; Hosts Rare Pop-up Museum",
       "link": "https://sf.funcheap.com/city-guide/alamo-square-painted-lady-hosts-rare-popup-museum/",
       "start_date": "2025-07-31",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-17 06:08 UTC"
+  "updated_at": "2026-11-18 05:37 UTC"
 }
