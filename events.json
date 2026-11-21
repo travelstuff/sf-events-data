@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "How to Volunteer for Thanksgiving 2026 in SF",
+      "link": "https://sf.funcheap.com/city-guide/thanksgiving-volunteering-guide/",
+      "start_date": "2026-11-18",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Bay Area&#8217;s &#8220;Cut Your Own&#8221; Christmas Tree Farms 2026",
       "link": "https://sf.funcheap.com/city-guide/sf-bay-area-christmas-tree-farms-cut-your-own/",
       "start_date": "2026-11-15",
@@ -1534,13 +1541,6 @@
       "is_free": true
     },
     {
-      "title": "How to Volunteer for Thanksgiving 2025 in SF",
-      "link": "https://sf.funcheap.com/city-guide/thanksgiving-volunteering-guide/",
-      "start_date": "2025-11-03",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "San Francisco &#8220;How to Volunteer&#8221; for the Holidays 2025 Guide",
       "link": "https://sf.funcheap.com/city-guide/holiday-volunteering-guide/",
       "start_date": "2025-11-02",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-20 05:23 UTC"
+  "updated_at": "2026-11-21 05:15 UTC"
 }
