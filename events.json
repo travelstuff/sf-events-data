@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "Where to Get Free Sand Bags in San Francisco (Updated 2026)",
+      "link": "https://sf.funcheap.com/city-guide/free-sand-bags-san-francisco/",
+      "start_date": "2026-11-22",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "How to Volunteer for Thanksgiving 2026 in SF",
       "link": "https://sf.funcheap.com/city-guide/thanksgiving-volunteering-guide/",
       "start_date": "2026-11-18",
@@ -1464,13 +1471,6 @@
       "is_free": true
     },
     {
-      "title": "Where to Get Free Sand Bags in San Francisco (Updated 2025)",
-      "link": "https://sf.funcheap.com/city-guide/free-sand-bags-san-francisco/",
-      "start_date": "2025-11-13",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "Northern Lights May Dazzle Again Over Bay Area Skies Tonight (Nov. 12)",
       "link": "https://sf.funcheap.com/city-guide/northern-lights-dazzle-bay-area-skies-tonight-nov-12/",
       "start_date": "2025-11-12",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-22 04:41 UTC"
+  "updated_at": "2026-11-23 05:18 UTC"
 }
