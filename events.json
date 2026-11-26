@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "20 Awesome Things to Do on Thanksgiving Day (and Night)",
+      "link": "https://sf.funcheap.com/city-guide/17-awesome-thanksgiving-day-night/",
+      "start_date": "2026-11-25",
+      "venue": "San Francisco",
+      "is_free": true
+    },
+    {
       "title": "Where to Get Free Sand Bags in San Francisco (Updated 2026)",
       "link": "https://sf.funcheap.com/city-guide/free-sand-bags-san-francisco/",
       "start_date": "2026-11-22",
@@ -1429,13 +1436,6 @@
       "is_free": true
     },
     {
-      "title": "15 Awesome Things to Do on Thanksgiving Day (and Night)",
-      "link": "https://sf.funcheap.com/city-guide/17-awesome-thanksgiving-day-night/",
-      "start_date": "2025-11-20",
-      "venue": "San Francisco",
-      "is_free": true
-    },
-    {
       "title": "SF Bay Area&#8217;s Most Festive Christmas Bars for 2025",
       "link": "https://sf.funcheap.com/city-guide/sf-bay-areas-festive-christmas-bars/",
       "start_date": "2025-11-20",
@@ -2101,5 +2101,5 @@
       "is_free": true
     }
   ],
-  "updated_at": "2026-11-25 06:37 UTC"
+  "updated_at": "2026-11-26 06:29 UTC"
 }
